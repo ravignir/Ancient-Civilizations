@@ -1,0 +1,129 @@
+[
+	{
+        "name": "Mediterranean Lords",
+        "requiredTech": "null",
+	"uniqueTo": "Phoenicia",
+        "cost": -1,
+	"isNationalWonder": true,
+	"cannotBeBuiltWith": "Palace",
+	"requiredBuilding": "Palace",
+	"uniques": ["Mediterranean Lords:
+	Provides gold bonus and your choice of additional +3: production or science or culture or happiness or food in your first five coastal cities. Each bonus can be choosen only once.
+"]
+},
+	{
+        "name": "Food Bonus",
+        "uniqueTo": "Sumeria",
+        "cost": -1,
+	"food": 2,
+	"uniques": ["Must be next to river","
+"],
+	},
+{
+        "name": "Phoenician Alphabet",
+        "uniqueTo": "Phoenicia",
+	"isNationalWonder": true,
+        "cost": -1,
+	"cannotBeBuiltWith": "Mediterranean Lords",
+        "providesFreeBuilding": "Mediterranean Lords",
+	"percentStatBonus": {"gold":10},
+	"science": 3,
+        "uniques": ["Can only be built in coastal cities"]
+	},
+{
+        "name": "Phoenician Culture",
+        "uniqueTo": "Phoenicia",
+	"isNationalWonder": true,
+        "cost": -1,
+	"cannotBeBuiltWith": "Mediterranean Lords",
+        "providesFreeBuilding": "Mediterranean Lords",
+	"percentStatBonus": {"gold":10},
+	"culture": 3,
+        "uniques": ["Can only be built in coastal cities"]
+	},
+{
+        "name": "Phoenician Solidarity",
+        "uniqueTo": "Phoenicia",
+	"isNationalWonder": true,
+        "cost": -1,
+	"cannotBeBuiltWith": "Mediterranean Lords",
+        "providesFreeBuilding": "Mediterranean Lords",
+	"percentStatBonus": {"gold":10},
+	"production": 3,
+        "uniques": ["Can only be built in coastal cities"]
+	},
+{
+        "name": "Phoenician Wealth",
+        "uniqueTo": "Phoenicia",
+	"isNationalWonder": true,
+        "cost": -1,
+	"cannotBeBuiltWith": "Mediterranean Lords",
+        "providesFreeBuilding": "Mediterranean Lords",
+	"percentStatBonus": {"gold":10},
+	"happiness": 3,
+        "uniques": ["Can only be built in coastal cities"]
+	},
+{
+        "name": "Phoenician Plenty",
+        "uniqueTo": "Phoenicia",
+	"isNationalWonder": true,
+        "cost": -1,
+	"cannotBeBuiltWith": "Mediterranean Lords",
+        "providesFreeBuilding": "Mediterranean Lords",
+	"percentStatBonus": {"gold":10},
+	"food": 3,
+        "uniques": ["Can only be built in coastal cities","
+"]
+	},
+	{
+		"name": "Ziggurat",
+		"replaces": "Temple",
+		"uniqueTo": "Sumeria", 
+		"maintenance": 3,
+		"culture": 2,
+		"science": 1,
+		"specialistSlots": {"science": 1},
+		"cost":120,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Monument"
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Synagogue",
+		"replaces": "Temple",
+		"uniqueTo": "Israel", 
+		"maintenance": 2,
+		"culture": 3,
+		"happiness": 1,
+		"specialistSlots": {"culture": 1},
+		"greatPersonPoints": {"culture": 1},
+		"cost": 138,
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 5},
+		"requiredBuilding": "Monument"
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Sphinx Gate",
+		"replaces": "Courthouse",
+		"uniqueTo": "The Hittites", 
+		"cityStrength": 2,
+		"cityHealth": 25,
+		"cost": 120,
+		"maintenance": 4,
+		"culture": 1,
+		"xpForNewUnits": 10,
+		"hurryCostModifier": 25,
+		"uniques": ["Remove extra unhappiness from annexed cities","10 XP for all units build in this city"],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Khachkar",
+		"replaces": "Monument",
+		"uniqueTo": "Armenia", 
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": ["Increased rate of border expansion"]
+	},
+]

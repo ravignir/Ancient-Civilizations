@@ -1,0 +1,175 @@
+[
+	{
+		"name": "Sumeria",
+		"leaderName": "Gilgamesh",
+		"adjective": ["Sumerian"],
+		"startBias": ["Flood plains"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "That's enough, prepare to be smashed into the dust!",
+		"attacked": "You dare to attack a demigod? You will regret this sooner than you think!",
+		"defeated": "Defeat. A mere mortal emerged victorious. Can't wait to see how long will you last. Even demigods aren't invicible.",
+		"introduction": "I am Gilgamesh, a demigod who descended to Earth to lead the mighty city of Uruk. Let there be peace among us!",
+		
+		"neutralHello": "Be blessed, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I gladly accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": "Just speak, don't waste my time!",
+		"hateNo": ["Are you joking?","Are you sure?"],
+		"hateYes": ["I can accept.","Fine.","Let it be."],
+		
+		"afterPeace": "Oh, a peace. Maybe we should celebrate it?",
+		"tradeRequest": "I present you this trade offer.",
+
+		"outerColor": [43, 35, 82],
+		"innerColor": [189, 145, 158],
+		"uniqueName": "Cradle of Civilization",
+		"uniques": ["[+2 Science] in capital", "[+1 Science] in all cities","+2 Food in cities next to river"],
+		"cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
+			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
+			"Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
+			"Aratta","Kutu","Der"]
+	},
+	{
+		"name": "Israel",
+		"leaderName": "Solomon",
+		"adjective": ["Israeli"],
+		"startBias": ["Avoid [Jungle]","Avoid [Forest]","Avoid [Tundra]"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "The Lord demands justice!",
+		"attacked": "The Lord told me your plans. We are prepared!",
+		"defeated":  "Is this how my peaceful reign ends? In a river of blood and suffering...",
+		"introduction":  "I am Solomon, King of the Chosen People. If you seek justice or advice, know that you had found them.",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept!"],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That offer is not just!","That can't be true."],
+		"hateYes": ["I can accept.","Fine.","The Lord told me it will be wise to accept this offer."],
+		
+		"afterPeace": "Praise the Lord as he gives peace!",
+		"tradeRequest": "I present you this trade offer.",
+
+		"outerColor": [	255, 255, 204],
+		"innerColor": [	51, 153, 255],
+		"uniqueName": "Promised Land",
+		"uniques": ["Receive free [Prophet] when you discover [Calendar]","[Prophet] is earned [25]% faster","[+1 Culture] from every [Pasture]","[+1 Food] from every [Pasture]"],
+		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
+			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
+			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
+	},
+	{
+		"name": "Phoenicia",
+		"leaderName": "Hiram I",
+		"adjective": ["Phoenician"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "We accept you for no longer!",
+		"attacked": "I am disappointed. Can't we simply trade and avoid the conflict?",
+		"defeated":  "Yes, take my lands. I doubt you will make any better use of them!",
+		"introduction":  "I am Hiram of Tyre. If you are here to trade, let's go straight into business.",
+		
+		"neutralHello": "Hello, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!","You need to try harder."],
+		"hateYes": ["Let it be.","This offer is too good to reject."],
+		
+		"afterPeace": "If we are no longer at war, maybe we should trade?",
+		"tradeRequest": "Shall we trade?",
+
+		"outerColor": [	102, 51, 153],
+		"innerColor": [	154, 221, 255],
+		"cities": ["Tyre","Sidon","Byblos","Sarepta","Berytos","Carthage","Baalbek","Zili","Akko","Dor","Arados",
+			"Quart Hadasht","Leptis","Utica","Karalis","Oia","Sabratha","Hadrumentum","Icosium","Iol","Thapsos",
+			"Melita","Kossyra","Gadir","Tartessos","Tharros","Magador","Igilgili","Cirta","Ebusos"]
+	},
+	{
+		"name": "The Hittites",
+		"leaderName": "Mursilis II",
+		"adjective": ["Hittite"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "Prepare to be torn apart!",
+		"attacked": "We would attack you anyway. You are just hastening your defeat",
+		"defeated":  "You were a worthy opponent, but my allies will eventually avenge me.",
+		"introduction":  "I am the mighty Mursilis. Don't get in my way and we shall live in peace.",
+		
+		"neutralHello": "Hail.",
+		"neutralLetsHearIt": ["Yes.","Go on."],
+		"neutralNo": ["Do not test my patience!","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","We accept."],
+		"hateHello": "Don't waste much of my time!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["You can't be serious!","No one would agree to that. Ever."],
+		"hateYes": ["Fine.","You can't simply refuse such offer."],
+		
+		"afterPeace": "Let this peace last ages!",
+		"tradeRequest": "What about this?",
+
+		"outerColor": [	172, 142, 97],
+		"innerColor": [	71, 6, 23],
+		"uniqueName": "Iron Pioneers",
+		"uniques": ["+[10]% Production when constructing [military units]","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]","[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]"],
+		"cities": ["Hattusa","Nesa","Kussara","Samuha","Tarhuntassa","Kadesh","Lusna","Alalah","Halab","Tunip","Kadesh",
+			"Zalpa","Hakpish","Nerik","Shallapsa","Arinna","Adaniya","Apasha","Waliwanda","Tapikka","Tuwanuwa",
+			"Ura","Milid","Urshu","Arwada","Sanahuitta","Dimashku","Millawanda","Gaziura","Ugarit"]
+	},
+	{
+		"name": "Armenia",
+		"leaderName": "Tigranes II",
+		"adjective": ["Armenian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "You are a disgrace to this world and I shall end you!",
+		"attacked": "So that's how you treat others? We shall teach you a lesson.",
+		"defeated":  "I might perish, but my people will never forget all that suffering you have brought.",
+		"introduction":  "I am the great Tigranes. Welcome to the hills of Armenia. I will now leave and pray for our bright future - If you don't mind.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Go on."],
+		"neutralNo": ["Do not test my patience!","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","We accept."],
+		"hateHello": "Don't waste much of my time!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["You can't be serious!","No one would agree to that. Ever."],
+		"hateYes": ["Fine.","You can't simply refuse such offer."],
+		
+		"afterPeace": "We shall now pray for the better days!",
+		"tradeRequest": "I bring you an excellent offer!",
+
+		"outerColor": [	128, 9, 46],
+		"innerColor": [	204, 170, 118],
+		"uniqueName": "Sacred Mountains",
+		"uniques": ["Double quantity of [Horses] produced","Units ignore terrain costs when moving into any tile with Hills","[+2 Culture] from every [Mountain]","[+1 Happiness] from every [Mountain]"],
+		"cities": ["Yerevan","Tigranakert","Artashat","Yervandashat","Armavir","Gyumri","Vanadzor","Abovyan","Kapan","Ararat","Gavar",
+		"Hrazdan","Ijevan","Goris","Ashtarak","Masis"]
+	}
+]

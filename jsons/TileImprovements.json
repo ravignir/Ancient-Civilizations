@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Holy Place",
+		"replaces": "Landmark"
+		"culture": 3,
+		"gold": 1,
+		"food": 1,
+		"production": 1,
+		"uniques": ["Gives a defensive bonus of [50]%","Great Improvement"]
+	},
+	{
+		"name": "Seaside Stall",
+		"uniqueTo": "Phoenicia",
+		"food": 1,
+		"gold": 1,
+		"production": 1,
+		"turnsToBuild": 9,
+		"uniques": ["Can only be built on Coastal tiles"],
+		"techRequired": "Optics",
+		"improvingTech": "Navigation",
+		"improvingTechStats": {"gold": 1, "production": 1}
+	}
+]
