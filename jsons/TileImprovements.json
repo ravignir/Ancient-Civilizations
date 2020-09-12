@@ -17,7 +17,6 @@
 		"turnsToBuild": 9,
 		"uniques": ["Can only be built on Coastal tiles"],
 		"techRequired": "Optics",
-		"improvingTech": "Navigation",
-		"improvingTechStats": {"gold": 1, "production": 1}
+		"uniques": ["[+1 Production] once [Compass] is discovered","[+1 Gold] once [Navigation] is discovered"]
 	}
 ]
