@@ -7,8 +7,7 @@
 	"isNationalWonder": true,
 	"cannotBeBuiltWith": "Palace",
 	"requiredBuilding": "Palace",
-	"uniques": ["Mediterranean Lords:
-	Provides gold bonus and your choice of additional +3: production or science or culture or happiness or food in your first five coastal cities. Each bonus can be choosen only once.
+	"uniques": ["Provides gold bonus and your choice of additional +3: production or science or culture or happiness or food in your first five coastal cities. Each bonus can be choosen only once."
 "]
 },
 	{
@@ -16,8 +15,7 @@
         "uniqueTo": "Sumeria",
         "cost": -1,
 	"food": 2,
-	"uniques": ["Must be next to river","
-"],
+	"uniques": ["Must be next to river","Can only be built in coastal cities"],
 	},
 {
         "name": "Phoenician Alphabet",
@@ -72,8 +70,7 @@
         "providesFreeBuilding": "Mediterranean Lords",
 	"percentStatBonus": {"gold":10},
 	"food": 3,
-        "uniques": ["Can only be built in coastal cities","
-"]
+        "uniques": ["Can only be built in coastal cities"]
 	},
 	{
 		"name": "Ziggurat",
