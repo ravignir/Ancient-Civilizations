@@ -29,7 +29,7 @@
 		"outerColor": [43, 35, 82],
 		"innerColor": [189, 145, 158],
 		"uniqueName": "Cradle of Civilization",
-		"uniques": ["[+2 Science] in capital", "[+1 Science] in all cities","+2 Food in cities next to river"],
+		"uniques": ["[+2 Science] in capital", "[+1 Science] in all cities","+2 Food in cities with access to Fresh water"],
 		"cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
 			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
 			"Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
@@ -99,6 +99,8 @@
 
 		"outerColor": [	102, 51, 153],
 		"innerColor": [	154, 221, 255],
+		"uniqueName": "Mediterranean Lords",
+		"uniques": ["Your first 5 coastal cities provide +10% Gold and your choice of +3: Production or Science or Culture or Happiness or Food. Each bonus can be choosen only once."],
 		"cities": ["Tyre","Sidon","Byblos","Sarepta","Berytos","Carthage","Baalbek","Zili","Akko","Dor","Arados",
 			"Quart Hadasht","Leptis","Utica","Karalis","Oia","Sabratha","Hadrumentum","Icosium","Iol","Thapsos",
 			"Melita","Kossyra","Gadir","Tartessos","Tharros","Magador","Igilgili","Cirta","Ebusos"]

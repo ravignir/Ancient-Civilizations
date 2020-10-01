@@ -7,17 +7,14 @@
 	"isNationalWonder": true,
 	"cannotBeBuiltWith": "Palace",
 	"requiredBuilding": "Palace",
-	"uniques": ["Mediterranean Lords:
-	Provides gold bonus and your choice of additional +3: production or science or culture or happiness or food in your first five coastal cities. Each bonus can be choosen only once.
-"]
+	"uniques": ["Will not be displayed in Civilopedia","UU"]
 },
 	{
         "name": "Food Bonus",
         "uniqueTo": "Sumeria",
         "cost": -1,
 	"food": 2,
-	"uniques": ["Must be next to river","
-"],
+	"uniques": ["Must be next to [Fresh water]","Will not be displayed in Civilopedia"],
 	},
 {
         "name": "Phoenician Alphabet",
@@ -28,7 +25,7 @@
         "providesFreeBuilding": "Mediterranean Lords",
 	"percentStatBonus": {"gold":10},
 	"science": 3,
-        "uniques": ["Can only be built in coastal cities"]
+        "uniques": ["Can only be built in coastal cities","Will not be displayed in Civilopedia"]
 	},
 {
         "name": "Phoenician Culture",
@@ -39,7 +36,7 @@
         "providesFreeBuilding": "Mediterranean Lords",
 	"percentStatBonus": {"gold":10},
 	"culture": 3,
-        "uniques": ["Can only be built in coastal cities"]
+        "uniques": ["Can only be built in coastal cities","Will not be displayed in Civilopedia"]
 	},
 {
         "name": "Phoenician Solidarity",
@@ -50,7 +47,7 @@
         "providesFreeBuilding": "Mediterranean Lords",
 	"percentStatBonus": {"gold":10},
 	"production": 3,
-        "uniques": ["Can only be built in coastal cities"]
+        "uniques": ["Can only be built in coastal cities","Will not be displayed in Civilopedia"]
 	},
 {
         "name": "Phoenician Wealth",
@@ -61,7 +58,7 @@
         "providesFreeBuilding": "Mediterranean Lords",
 	"percentStatBonus": {"gold":10},
 	"happiness": 3,
-        "uniques": ["Can only be built in coastal cities"]
+        "uniques": ["Can only be built in coastal cities","Will not be displayed in Civilopedia"]
 	},
 {
         "name": "Phoenician Plenty",
@@ -72,8 +69,7 @@
         "providesFreeBuilding": "Mediterranean Lords",
 	"percentStatBonus": {"gold":10},
 	"food": 3,
-        "uniques": ["Can only be built in coastal cities","
-"]
+        "uniques": ["Can only be built in coastal cities","Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Ziggurat",
