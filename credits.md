@@ -8,3 +8,6 @@ By Template
 
 -----------
 Artaxiad dynasty flag https://www.peopleofar.com/2017/01/30/reconstructing-artaxiad-flag/ by PeopleOfAr
+
+Translations:
+Smashfanful - Italian
