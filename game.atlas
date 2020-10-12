@@ -153,9 +153,9 @@ TileSets/FantasyHex/Units/Artaxiad Noble
   index: -1
 TileSets/FantasyHex/Units/Bireme
   rotate: false
-  xy: 1818, 174
-  size: 32, 26
-  orig: 32, 26
+  xy: 1818, 172
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Heavy Chariot
@@ -174,7 +174,7 @@ TileSets/FantasyHex/Units/Phalanx
   index: -1
 TileSets/FantasyHex/Units/Prophet
   rotate: false
-  xy: 1818, 144
+  xy: 1818, 142
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
