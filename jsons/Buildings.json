@@ -78,7 +78,7 @@
 		"maintenance": 3,
 		"culture": 2,
 		"science": 1,
-		"specialistSlots": {"science": 1},
+		"specialistSlots": {"Scientist": 1},
 		"cost":120,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Monument"
@@ -91,7 +91,7 @@
 		"maintenance": 2,
 		"culture": 3,
 		"happiness": 1,
-		"specialistSlots": {"culture": 1},
+		"specialistSlots": {"Artist": 1},
 		"greatPersonPoints": {"culture": 1},
 		"cost": 138,
 		"hurryCostModifier": 25,
