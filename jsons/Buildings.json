@@ -1,7 +1,6 @@
 [
 	{
         "name": "Mediterranean Lords",
-        "requiredTech": "null",
 	"uniqueTo": "Phoenicia",
         "cost": -1,
 	"isNationalWonder": true,
