@@ -121,4 +121,21 @@
 		"hurryCostModifier": 40,
 		"uniques": ["Increased rate of border expansion"]
 	},
+		{
+		"name": "Slave Market",
+		"replaces": "Market",
+		"uniqueTo": "Macrobia",
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["+[33]% production when building [Worker] in this city","[+2 Gold] from [Plantation] tiles in this city"]
+		"requiredTech": "Currency"
+	},
+		{
+		"name": "Macrobia Bonus",
+		"uniqueTo": "Macrobia", 
+		"cost": -1,
+		"percentStatBonus": {"gold":15, "culture":15},
+		"uniques": ["Can only be built in annexed cities","Will not be displayed in Civilopedia"],
+	},
 ]

@@ -71,4 +71,18 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
+		{
+		"name": "Slave Hunter",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Macrobia",
+		"movement": 3,
+		"strength": 6,
+		"cost": 40,
+		"obsoleteTech": "Scientific Theory",
+		"upgradesTo": "Horseman",
+		"uniques": ["Ignores terrain cost","1 additional attack per turn"],
+		"promotions": ["Charge"],
+		"attackSound": "nonmetalhit"
+	},
 ]

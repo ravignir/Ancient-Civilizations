@@ -178,4 +178,40 @@
 		"cities": ["Yerevan","Tigranakert","Artashat","Yervandashat","Armavir","Gyumri","Vanadzor","Abovyan","Kapan","Ararat","Gavar",
 		"Hrazdan","Ijevan","Goris","Ashtarak","Masis"]
 	}
+			{
+		"name": "Macrobia",
+		"leaderName": "Sayid",
+		"adjective": ["Macrobian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "You have had your chance, prepare for war!",
+		"attacked": "You DARE declare war on us? We shall make you suffer!",
+		"defeated":  "So that is how it all ends. In sea of tears and blood.",
+		"introduction":  "Who are you? I bet You are here to admire our wealth.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Go on."],
+		"neutralNo": ["Do not test my patience!","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","We accept."],
+		"hateHello": "Don't waste much of my time!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["You can't be serious!","No one would agree to that. Ever."],
+		"hateYes": ["Fine.","You can't simply refuse such offer."],
+		
+		"afterPeace": "We shall now pray for the better days!",
+		"tradeRequest": "I bring you an excellent offer!",
+
+		"outerColor": [	84, 215, 247],
+		"innerColor": [	255, 255, 255],
+		"uniqueName": "Shackles of Gold",
+		"uniqueText": "Earns Gold for killing enemy Land units. Conquered cities yield 20% more Gold and Culture", 
+		"uniques": ["Earn [200]% of [Land] opponent's [Strength] as [Gold] for kills"],
+		"cities": ["Mogadishu","Avalite","Botiala","Gondal","Toniki","Nikon","Salweyn","Miandi","Sarapion","Hannassa","Bulhar",
+		"Essina","Famo","Mosylon","Opone","Nikon","Mundus"]
+	}
+
 ]
