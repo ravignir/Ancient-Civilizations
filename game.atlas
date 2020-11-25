@@ -1,215 +1,250 @@
 
 game.png
-size: 2048,512
+size: 1024,1024
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 BuildingIcons/Food Bonus
   rotate: false
-  xy: 1010, 304
+  xy: 606, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Khachkar
   rotate: false
-  xy: 1818, 304
+  xy: 204, 206
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Macrobia Bonus
+  rotate: false
+  xy: 406, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Mediterranean Lords
   rotate: false
-  xy: 404, 102
+  xy: 406, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Phoenician Alphabet
   rotate: false
-  xy: 404, 102
+  xy: 406, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Phoenician Culture
   rotate: false
-  xy: 404, 102
+  xy: 406, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Phoenician Plenty
   rotate: false
-  xy: 404, 102
+  xy: 406, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Phoenician Solidarity
   rotate: false
-  xy: 404, 102
+  xy: 406, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Phoenician Wealth
   rotate: false
-  xy: 404, 102
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Slave Market
+  rotate: false
+  xy: 810, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sphinx Gate
   rotate: false
-  xy: 2, 104
+  xy: 2, 610
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 BuildingIcons/Synagogue
   rotate: false
-  xy: 1414, 102
+  xy: 810, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Ziggurat
   rotate: false
-  xy: 1616, 102
+  xy: 406, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Holy Place
   rotate: false
-  xy: 1414, 304
+  xy: 808, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Seaside Stall
   rotate: false
-  xy: 1010, 102
+  xy: 608, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Armenia
   rotate: false
-  xy: 404, 304
+  xy: 2, 408
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Israel
   rotate: false
-  xy: 1616, 304
+  xy: 204, 408
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Macrobia
+  rotate: false
+  xy: 204, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Phoenicia
   rotate: false
-  xy: 2, 2
+  xy: 608, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Sumeria
   rotate: false
-  xy: 1212, 102
+  xy: 810, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/The Hittites
   rotate: false
-  xy: 1818, 202
+  xy: 710, 102
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Holy Place
   rotate: false
-  xy: 104, 36
+  xy: 642, 64
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Seaside Stall
   rotate: false
-  xy: 1852, 172
+  xy: 608, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artaxiad Noble
   rotate: false
-  xy: 104, 74
+  xy: 608, 72
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bireme
   rotate: false
-  xy: 1818, 172
+  xy: 812, 174
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Heavy Chariot
   rotate: false
-  xy: 1920, 274
+  xy: 608, 42
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Phalanx
   rotate: false
-  xy: 138, 74
+  xy: 812, 144
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Prophet
   rotate: false
-  xy: 1818, 142
+  xy: 846, 174
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Slave Hunter
+  rotate: false
+  xy: 642, 34
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Artaxiad Noble
   rotate: false
-  xy: 606, 304
+  xy: 404, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Bireme
   rotate: false
-  xy: 808, 304
+  xy: 2, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Heavy Chariot
   rotate: false
-  xy: 1212, 304
+  xy: 2, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Phalanx
   rotate: false
-  xy: 606, 102
+  xy: 608, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Prophet
   rotate: false
-  xy: 808, 102
+  xy: 406, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Slave Hunter
+  rotate: false
+  xy: 608, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
