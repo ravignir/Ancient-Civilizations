@@ -15,6 +15,104 @@
 	"food": 2,
 	"uniques": ["Must be next to [Fresh water]","Will not be displayed in Civilopedia"],
 	},
+	/*
+	{
+        "name": "Great Person Bonus1",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "Temple",
+        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+		{
+        "name": "Great Person Bonus2",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "Market",
+        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+			{
+        "name": "Great Person Bonus3",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "Workshop",
+        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+				{
+        "name": "Great Person Bonus4",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "University",
+        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+				{
+        "name": "Great Person Bonus5",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "Opera House",
+        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+				{
+        "name": "Great Person Bonus6",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "Bank",
+        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+					{
+        "name": "Great Person Bonus7",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "Stock Exchange",
+        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+					{
+        "name": "Great Person Bonus8",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "Museum",
+        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+					{
+        "name": "Great Person Bonus9",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "Windmill",
+        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+					{
+        "name": "Great Person Bonus10",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "Public School",
+        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+						{
+        "name": "Great Person Bonus11",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "Research Lab",
+        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+					{
+        "name": "Great Person Bonus12",
+        "uniqueTo": "Olmec",
+		"isNationalWonder": true,
+        "cost": -1,
+		"requiredBuilding": "Factory",
+        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia"]
+	},
+	*/
 {
         "name": "Phoenician Alphabet",
         "uniqueTo": "Phoenicia",

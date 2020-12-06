@@ -212,6 +212,40 @@
 		"uniques": ["Earn [200]% of [Land] opponent's [Strength] as [Gold] for kills"],
 		"cities": ["Mogadishu","Avalite","Botiala","Gondal","Toniki","Nikon","Salweyn","Miandi","Sarapion","Hannassa","Bulhar",
 		"Essina","Famo","Mosylon","Opone","Nikon","Mundus"]
-	}
+	},
+	/*
+		{
+		"name": "Olmec",
+		"leaderName": "Gray Feather",
+		"adjective": ["Olmec"],
+		"startBias": ["Jungle","Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "We accept you for no longer!",
+		"attacked": "I am disappointed. Can't we simply trade and avoid the conflict?",
+		"defeated":  "Yes, take my lands. I doubt you will make any better use of them!",
+		"introduction":  "I am Hiram of Tyre. If you are here to trade, let's go straight into business.",
+		
+		"neutralHello": "Hello, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!","You need to try harder."],
+		"hateYes": ["Let it be.","This offer is too good to reject."],
+		
+		"afterPeace": "If we are no longer at war, maybe we should trade?",
+		"tradeRequest": "Shall we trade?",
 
+		"outerColor": [	102, 51, 153],
+		"innerColor": [	154, 221, 255],
+		"uniqueName": "Feathered Serpent",
+		"uniques": ["Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time"],
+		"cities": ["La Venta","San Lorenzo","Tres Zapotes","Izapa","Tzapotl","Tonala","Texpa","Tlapocoya","Xoc","Coatztitlan","Izacoya"]
+	},
+*/
 ]

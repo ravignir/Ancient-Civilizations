@@ -15,8 +15,17 @@
 		"gold": 1,
 		"production": 1,
 		"turnsToBuild": 9,
-		"uniques": ["Can only be built on Coastal tiles"],
 		"techRequired": "Optics",
-		"uniques": ["[+1 Production] once [Compass] is discovered","[+1 Gold] once [Navigation] is discovered"]
+		"uniques": ["Can only be built on Coastal tiles","[+1 Production] once [Compass] is discovered","[+1 Gold] once [Navigation] is discovered"]
+	},
+	/*
+		{
+		"name": "Colossal Head",
+		"uniqueTo": "Olmec",
+		"science": 1,
+		"turnsToBuild": 9,
+		"techRequired": "Pottery",
+		"uniques": ["[+1 Culture] once [Archaeology] is discovered","[+1 Science] for each adjacent [Jungle]"]
 	}
+	*/
 ]
