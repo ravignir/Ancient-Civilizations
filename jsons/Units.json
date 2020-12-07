@@ -55,6 +55,20 @@
 		"uniques": ["Bonus vs Melee 50%","Bonus vs Mounted 100%","+25% Combat Bonus when defending"],
 		"attackSound": "nonmetalhit"
 	},
+		{
+		"name": "Jagunjagun",
+		"unitType": "Melee",
+		"uniqueTo": "Nok",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 30,
+		"hurryCostModifier": 20,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques": ["Ignores terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
 	{
 		"name": "Artaxiad Noble",
 		"unitType": "Mounted",
@@ -85,7 +99,6 @@
 		"promotions": ["Charge"],
 		"attackSound": "nonmetalhit"
 	},
-	/*
 		{
 		"name": "Serpent Priest",
 		"unitType": "Melee",
@@ -101,5 +114,19 @@
 		"uniques": ["Bonus for units in 2 tile radius 15%","Heals [30] damage if it kills a unit","-10% combat strength for adjacent enemy units"],
 		"attackSound": "nonmetalhit"
 	},
-*/
+	{	
+		"name": "Sun Archer",
+		"replaces": "Archer",
+		"unitType": "Ranged",
+		"uniqueTo": "Himyar",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"promotions": ["Mobility","Accuracy I"],
+		"attackSound": "arrow"
+	},
 ]

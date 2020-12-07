@@ -18,14 +18,22 @@
 		"techRequired": "Optics",
 		"uniques": ["Can only be built on Coastal tiles","[+1 Production] once [Compass] is discovered","[+1 Gold] once [Navigation] is discovered"]
 	},
-	/*
 		{
 		"name": "Colossal Head",
 		"uniqueTo": "Olmec",
-		"science": 1,
-		"turnsToBuild": 9,
-		"techRequired": "Pottery",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland"],
+		"science": 0,
+		"turnsToBuild": 8,
+		"techRequired": "Calendar",
 		"uniques": ["[+1 Culture] once [Archaeology] is discovered","[+1 Science] for each adjacent [Jungle]"]
-	}
-	*/
+	},
+		{
+		"name": "Dam",
+		"uniqueTo": "Himyar",
+		"food": 1,
+		"production": 1,
+		"turnsToBuild": 8,
+		"techRequired": "Construction",
+		"uniques": ["Can also be built on tiles adjacent to fresh water"]
+	},
 ]

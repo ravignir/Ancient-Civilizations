@@ -15,14 +15,37 @@
 	"food": 2,
 	"uniques": ["Must be next to [Fresh water]","Will not be displayed in Civilopedia"],
 	},
-	/*
+			{
+        "name": "Free Terracotta",
+        "uniqueTo": "Nok",
+        "cost": -1,
+	"uniques": ["Provides [1] [Terracotta]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Incense]"],
+	},
+		{
+        "name": "Myrrh",
+        "uniqueTo": "Himyar",
+        "cost": -1,
+        "requiredResource": "Incense",
+	 "requiredNearbyImprovedResources": ["Incense"],
+	 "cannotBeBuiltWith": "Frankincense",
+	"uniques": ["Provides [1] [Myrrh]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Incense]"],
+	},
+			{
+        "name": "Frankincense",
+        "uniqueTo": "Himyar",
+        "cost": -1,
+        "requiredResource": "Incense",
+	 "requiredNearbyImprovedResources": ["Incense"],
+	 "cannotBeBuiltWith": "Myrrh",
+	"uniques": ["Provides [1] [Frankincense]","Will not be displayed in Civilopedia"],
+	},
 	{
         "name": "Great Person Bonus1",
         "uniqueTo": "Olmec",
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "Temple",
-        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Temple] is built"]
 	},
 		{
         "name": "Great Person Bonus2",
@@ -30,7 +53,7 @@
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "Market",
-        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Market] is built"]
 	},
 			{
         "name": "Great Person Bonus3",
@@ -38,7 +61,7 @@
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "Workshop",
-        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Workshop] is built"]
 	},
 				{
         "name": "Great Person Bonus4",
@@ -46,7 +69,7 @@
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "University",
-        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [University] is built"]
 	},
 				{
         "name": "Great Person Bonus5",
@@ -54,7 +77,7 @@
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "Opera House",
-        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Opera House] is built"]
 	},
 				{
         "name": "Great Person Bonus6",
@@ -62,7 +85,7 @@
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "Bank",
-        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Bank] is built"]
 	},
 					{
         "name": "Great Person Bonus7",
@@ -70,7 +93,7 @@
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "Stock Exchange",
-        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Stock Exchange] is built"]
 	},
 					{
         "name": "Great Person Bonus8",
@@ -78,7 +101,7 @@
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "Museum",
-        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Museum] is built"]
 	},
 					{
         "name": "Great Person Bonus9",
@@ -86,7 +109,7 @@
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "Windmill",
-        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Windmill] is built"]
 	},
 					{
         "name": "Great Person Bonus10",
@@ -94,7 +117,7 @@
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "Public School",
-        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Public School] is built"]
 	},
 						{
         "name": "Great Person Bonus11",
@@ -102,7 +125,7 @@
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "Research Lab",
-        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Research Lab] is built"]
 	},
 					{
         "name": "Great Person Bonus12",
@@ -110,9 +133,8 @@
 		"isNationalWonder": true,
         "cost": -1,
 		"requiredBuilding": "Factory",
-        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia"]
+        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Factory] is built"]
 	},
-	*/
 {
         "name": "Phoenician Alphabet",
         "uniqueTo": "Phoenicia",
@@ -236,4 +258,13 @@
 		"percentStatBonus": {"gold":15, "culture":15},
 		"uniques": ["Can only be built in annexed cities","Will not be displayed in Civilopedia"],
 	},
+	    {
+		"name": "Smeltery",
+        "replaces": "Forge",
+		"uniqueTo": "Nok",
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "requiredTech": "Metal Casting",
+        "uniques": ["+[15]% production when building [land units] in this city", "+[15]% production when building [Spaceship part] in this city","Provides [2] [Iron]","[+1 Production] from [Iron] tiles in this city"]
+    },
 ]

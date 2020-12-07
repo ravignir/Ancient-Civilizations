@@ -213,10 +213,9 @@
 		"cities": ["Mogadishu","Avalite","Botiala","Gondal","Toniki","Nikon","Salweyn","Miandi","Sarapion","Hannassa","Bulhar",
 		"Essina","Famo","Mosylon","Opone","Nikon","Mundus"]
 	},
-	/*
 		{
 		"name": "Olmec",
-		"leaderName": "Gray Feather",
+		"leaderName": "U Kix Chan",
 		"adjective": ["Olmec"],
 		"startBias": ["Jungle","Coast"],
 		"preferredVictoryType": "Scientific",
@@ -224,10 +223,43 @@
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
 		
-		"declaringWar": "We accept you for no longer!",
-		"attacked": "I am disappointed. Can't we simply trade and avoid the conflict?",
-		"defeated":  "Yes, take my lands. I doubt you will make any better use of them!",
-		"introduction":  "I am Hiram of Tyre. If you are here to trade, let's go straight into business.",
+		"declaringWar": "War! The Feathered Serpent demands blood!",
+		"attacked": "Is it bravery or stupidity?",
+		"defeated":  "That's the greatest sacrifice i can offer You!",
+		"introduction":  "Were you send b the great Serpent?",
+		
+		"neutralHello": "Hello, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!"],
+		"hateYes": ["Let it be."],
+		
+		"afterPeace": "Yes, what such bloodhirsty beast might want?",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [	91, 176, 156],
+		"innerColor": [ 40, 94, 68],
+		"uniqueName": "Feathered Serpent",
+		"uniques": ["Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time"],
+		"cities": ["La Venta","San Lorenzo","Tres Zapotes","Izapa","Tzapotl","Tonala","Texpa","Tlapocoya","Xoc","Coatztitlan","Izacoya"]
+	},
+			{
+		"name": "Nok",
+		"leaderName": "Olori",
+		"adjective": ["Nok"],
+		"startBias": ["Jungle","Iron"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "You must be destroyed!",
+		"attacked": "Oh I see. I did not expect anything else from you.",
+		"defeated":  "We might die, but our culture is eternal.",
+		"introduction":  "Welcome to our lands. May there be peace among us!",
 		
 		"neutralHello": "Hello, friend.",
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
@@ -238,14 +270,46 @@
 		"hateNo": ["I can't accept!","You need to try harder."],
 		"hateYes": ["Let it be.","This offer is too good to reject."],
 		
-		"afterPeace": "If we are no longer at war, maybe we should trade?",
-		"tradeRequest": "Shall we trade?",
+		"afterPeace": "Oh?",
+		"tradeRequest": "Do you like it?",
 
-		"outerColor": [	102, 51, 153],
-		"innerColor": [	154, 221, 255],
-		"uniqueName": "Feathered Serpent",
-		"uniques": ["Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time"],
-		"cities": ["La Venta","San Lorenzo","Tres Zapotes","Izapa","Tzapotl","Tonala","Texpa","Tlapocoya","Xoc","Coatztitlan","Izacoya"]
+		"outerColor": [	189, 182, 125],
+		"innerColor": [	82, 70, 55],
+		"uniqueName": "African Treasures",
+		"uniques": ["All cities provide 1 copy of Terracotta luxury resource","[+1 Science] from every [Iron]","Workers may expended to instantly create Mine improvemenet regardless of base terrain","[Worker] units gain the [Mine] promotion"],
+		"cities": ["Nok","Jos","Ife","Samun","Kagara","Janjala","Kwoi","Jere","Dokku","Bokkos","Riyom","Ogbabu","Pangajere","Taruga","Kamrun","Vom","Chakwama","Dogo-Dogo","Jagwa"]
 	},
-*/
+			{
+		"name": "Himyar",
+		"leaderName": "Charibael",
+		"adjective": ["Himyarite"],
+		"startBias": ["Incense","Spices","Desert"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "You are an obstacle and you shall be removed!",
+		"attacked": "Disappointing",
+		"defeated":  "Take my lands, but you will never take ou pride!",
+		"introduction":  "Welcome to my court. I bet our Incense got you here.",
+		
+		"neutralHello": "Hello, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!","You need to try harder."],
+		"hateYes": ["Let it be.","This offer is too good to reject."],
+		
+		"afterPeace": "Yes?",
+		"tradeRequest": "I think that's a fair offer.",
+
+		"outerColor": [	31, 31, 31],
+		"innerColor": [	247, 198, 0],
+		"uniqueName": "Desert Paradise",
+		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","+[15]% Strength if within [1] tiles of a [Desert]"],
+		"cities": ["Zafar","Sana'a","Ma'rib","Najran","Mocha","Haram","Haywan","Mukhwan","Yabrin","Shabwa","Wa'lan","Libna","Nashaq","Timna","Sirwah","Quarnawu","Kaminahu","Baraqish"]
+	},
 ]
