@@ -209,7 +209,7 @@
 		"innerColor": [	255, 255, 255],
 		"uniqueName": "Shackles of Gold",
 		"uniqueText": "Earns Gold for killing enemy Land units. Conquered cities yield 15% more Gold and Culture", 
-		"uniques": ["Earn [200]% of [Land] opponent's [Strength] as [Gold] for kills"],
+		"uniques": ["Earn [150]% of [Land] opponent's [Strength] as [Gold] for kills"],
 		"cities": ["Mogadishu","Avalite","Botiala","Gondal","Toniki","Nikon","Salweyn","Miandi","Sarapion","Hannassa","Bulhar",
 		"Essina","Famo","Mosylon","Opone","Nikon","Mundus"]
 	},
