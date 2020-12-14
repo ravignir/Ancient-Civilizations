@@ -52,7 +52,7 @@
 		"requiredTech": "Mining",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["Bonus vs Melee 50%","Bonus vs Mounted 100%","+25% Combat Bonus when defending"],
+		"uniques": ["Bonus vs Melee 50%","Bonus vs Mounted 100%","+[25]% Strength when defending"],
 		"attackSound": "nonmetalhit"
 	},
 		{
