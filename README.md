@@ -1,4 +1,4 @@
-# Ancient-Civilizations v1.2g
+# Ancient-Civilizations v1.3g
 Ancient Civilizations mod for Unciv (Sumeria, Israel, Phoenicia, the Hittites, Armenia, Macrobia, Olmec, Nok, Himyar, Epirus and Scythia)
 v1.01g (01.10.20)
 v1.03g (11.10.20)
