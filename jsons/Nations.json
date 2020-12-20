@@ -225,8 +225,8 @@
 		
 		"declaringWar": "War! The Feathered Serpent demands blood!",
 		"attacked": "Is it bravery or stupidity?",
-		"defeated":  "That's the greatest sacrifice i can offer You!",
-		"introduction":  "Were you send b the great Serpent?",
+		"defeated":  "That's the greatest sacrifice I can offer You!",
+		"introduction":  "Were you send by the great Serpent?",
 		
 		"neutralHello": "Hello, friend.",
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
@@ -257,7 +257,7 @@
 		"startIntroPart2": "TBD",
 		
 		"declaringWar": "You must be destroyed!",
-		"attacked": "Oh I see. I did not expect anything else from you.",
+		"attacked": "Oh, I see. I did not expect anything else from you.",
 		"defeated":  "We might die, but our culture is eternal.",
 		"introduction":  "Welcome to our lands. May there be peace among us!",
 		
