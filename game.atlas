@@ -4,464 +4,569 @@ size: 2048,1024
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
+BuildingIcons/EpirusA
+  rotate: false
+  xy: 1010, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Free Worker (Ability)
+  rotate: false
+  xy: 1010, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/Food Bonus
   rotate: false
-  xy: 808, 808
+  xy: 1212, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Frankincense
   rotate: false
-  xy: 1010, 808
+  xy: 1414, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Myrrh
   rotate: false
-  xy: 1010, 808
+  xy: 1414, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Free Terracotta
   rotate: false
-  xy: 1414, 808
+  xy: 1818, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus1
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus10
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus11
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus12
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus2
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus3
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus4
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus5
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus6
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus7
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus8
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Great Person Bonus9
   rotate: false
-  xy: 1616, 808
+  xy: 204, 206
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Khachkar
   rotate: false
-  xy: 406, 404
+  xy: 608, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Macrobia Bonus
   rotate: false
-  xy: 406, 202
+  xy: 810, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Mediterranean Lords
   rotate: false
-  xy: 608, 404
+  xy: 1012, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Phoenician Alphabet
   rotate: false
-  xy: 608, 404
+  xy: 1012, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Phoenician Culture
   rotate: false
-  xy: 608, 404
+  xy: 1012, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Phoenician Plenty
   rotate: false
-  xy: 608, 404
+  xy: 1012, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Phoenician Solidarity
   rotate: false
-  xy: 608, 404
+  xy: 1012, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Phoenician Wealth
   rotate: false
-  xy: 608, 404
+  xy: 1012, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Slave Market
   rotate: false
-  xy: 1214, 404
+  xy: 1618, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Smeltery
   rotate: false
-  xy: 1416, 606
+  xy: 406, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Sphinx Gate
   rotate: false
-  xy: 2, 608
+  xy: 2, 610
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 BuildingIcons/Synagogue
   rotate: false
-  xy: 1618, 606
+  xy: 1012, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Ziggurat
   rotate: false
-  xy: 1618, 404
+  xy: 1618, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Colossal Head
   rotate: false
-  xy: 606, 808
+  xy: 606, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Dam
   rotate: false
-  xy: 2, 2
+  xy: 2, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Holy Place
   rotate: false
-  xy: 204, 204
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Kurgan
+  rotate: false
+  xy: 810, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Seaside Stall
   rotate: false
-  xy: 1012, 404
+  xy: 1618, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Armenia
   rotate: false
-  xy: 2, 406
+  xy: 2, 408
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Epirus
+  rotate: false
+  xy: 808, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Pyrrhic Victory
+  rotate: false
+  xy: 808, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Himyar
   rotate: false
-  xy: 204, 406
+  xy: 406, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Israel
   rotate: false
-  xy: 204, 2
+  xy: 608, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Macrobia
   rotate: false
-  xy: 608, 606
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-NationIcons/Nok
-  rotate: false
-  xy: 608, 202
+  xy: 608, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Olmec
   rotate: false
-  xy: 810, 404
+  xy: 1214, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Phoenicia
   rotate: false
-  xy: 406, 100
+  xy: 1820, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Scythia
+  rotate: false
+  xy: 1416, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 NationIcons/Sumeria
   rotate: false
-  xy: 1214, 202
+  xy: 608, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/The Hittites
   rotate: false
-  xy: 1820, 706
+  xy: 1820, 606
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Frankincense
   rotate: false
-  xy: 1212, 808
+  xy: 1616, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ResourceIcons/Myrrh
   rotate: false
-  xy: 810, 606
+  xy: 1214, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ResourceIcons/Terracotta
   rotate: false
-  xy: 1416, 202
+  xy: 1416, 2
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Colossal Head
   rotate: false
-  xy: 508, 172
+  xy: 1922, 750
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Holy Place
   rotate: false
-  xy: 1922, 770
+  xy: 1854, 568
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Kurgan
+  rotate: false
+  xy: 1956, 749
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Seaside Stall
   rotate: false
-  xy: 440, 70
+  xy: 1922, 690
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artaxiad Noble
   rotate: false
-  xy: 1618, 374
+  xy: 1922, 780
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bireme
   rotate: false
-  xy: 406, 70
+  xy: 1820, 576
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/General
+  rotate: false
+  xy: 1956, 779
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Heavy Chariot
   rotate: false
-  xy: 1820, 676
+  xy: 1820, 546
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Jagunjagun
   rotate: false
-  xy: 1618, 344
+  xy: 1922, 720
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nomadic Archer
+  rotate: false
+  xy: 1820, 516
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Phalanx
   rotate: false
-  xy: 1652, 374
+  xy: 1854, 538
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Prophet
   rotate: false
-  xy: 406, 40
+  xy: 1888, 576
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Serpent Priest
   rotate: false
-  xy: 508, 142
+  xy: 1956, 719
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Slave Hunter
   rotate: false
-  xy: 542, 172
+  xy: 1820, 486
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sun Archer
   rotate: false
-  xy: 1820, 646
+  xy: 1854, 508
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tarantine Cavalry
+  rotate: false
+  xy: 1888, 546
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Artaxiad Noble
   rotate: false
-  xy: 404, 808
+  xy: 404, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Bireme
   rotate: false
-  xy: 2, 204
+  xy: 2, 206
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/General
+  rotate: false
+  xy: 204, 408
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Heavy Chariot
   rotate: false
-  xy: 1818, 808
+  xy: 204, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Jagunjagun
   rotate: false
-  xy: 406, 606
+  xy: 406, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Nomadic Archer
+  rotate: false
+  xy: 1012, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Phalanx
   rotate: false
-  xy: 1012, 606
+  xy: 1416, 608
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Prophet
   rotate: false
-  xy: 810, 202
+  xy: 1214, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Serpent Priest
   rotate: false
-  xy: 1214, 606
+  xy: 1416, 204
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Slave Hunter
   rotate: false
-  xy: 1012, 202
+  xy: 1618, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Sun Archer
   rotate: false
-  xy: 1416, 404
+  xy: 810, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Tarantine Cavalry
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Mine
+  rotate: false
+  xy: 810, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Nok
+  rotate: false
+  xy: 810, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Mount
+  rotate: false
+  xy: 1012, 406
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

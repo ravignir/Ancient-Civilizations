@@ -59,6 +59,27 @@ By Tanya Magdieva,
 
 incense candle https://thenounproject.com/term/incense-candle/2126705
 By ProSymbols,
+
+Deer https://thenounproject.com/term/deer/734837
+By Laymik
+
+tomb https://thenounproject.com/term/tomb/281300
+By Vectors Market 
+
+bow and arrow https://thenounproject.com/term/bow-and-arrow/1645775
+By sarah
+
+Dog https://thenounproject.com/term/dog/1026726
+By Bakunetsu Kaito 
+
+Horse https://thenounproject.com/term/horse/183940
+By Arthur Bauer
+
+Flag https://thenounproject.com/term/flag/1423998
+By Kangrif
+
+Horse https://thenounproject.com/term/horse/24573
+By Thier Mundim,
 -----------
 Artaxiad dynasty flag https://www.peopleofar.com/2017/01/30/reconstructing-artaxiad-flag/ by PeopleOfAr
 
