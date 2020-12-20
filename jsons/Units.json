@@ -152,7 +152,7 @@
 		"uniqueTo": "Scythia",
 		"movement": 2,
 		"strength": 4,
-		"rangedStrength": 9,
+		"rangedStrength": 8,
 		"cost": 30,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Machinery",
