@@ -232,6 +232,23 @@
 		"uniques": ["Remove extra unhappiness from annexed cities","10 XP for all units build in this city"],
 		"requiredTech": "Construction"
 	},
+		{
+		"name": "Free Worker (Ability)",
+		"uniqueTo": "Epirus", 
+		"cost": -1,
+		"cannotBeBuiltWith": "EpirusA",
+		"providesFreeBuilding": "EpirusA",
+		"uniques": ["Can only be built in annexed cities","Will not be displayed in Civilopedia"],
+	},
+			{
+		"name": "EpirusA",
+		"uniqueTo": "Epirus", 
+        "cost": -1,
+	"isNationalWonder": true,
+	"cannotBeBuiltWith": "Palace",
+	"requiredBuilding": "Palace",
+		"uniques": ["Free [Worker] appears","Will not be displayed in Civilopedia"],
+	},
 	{
 		"name": "Khachkar",
 		"replaces": "Monument",
@@ -264,7 +281,7 @@
 		"uniqueTo": "Nok",
         "maintenance": 1,
         "hurryCostModifier": 25,
-        "requiredTech": "Metal Casting",
+        "requiredTech": "Iron Working",
         "uniques": ["+[15]% production when building [land units] in this city", "+[15]% production when building [Spaceship part] in this city","Provides [2] [Iron]","[+1 Production] from [Iron] tiles in this city"]
     },
 ]

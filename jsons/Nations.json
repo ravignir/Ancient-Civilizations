@@ -276,7 +276,8 @@
 		"outerColor": [	189, 182, 125],
 		"innerColor": [	82, 70, 55],
 		"uniqueName": "African Treasures",
-		"uniques": ["All cities provide 1 copy of Terracotta luxury resource","[+1 Science] from every [Iron]","Workers may expended to instantly create Mine improvemenet regardless of base terrain","[Worker] units gain the [Mine] promotion"],
+		"uniqueText": "All cities provide 1 copy of Terracotta luxury resource. +1 Science from every Iron. Workers may expended to instantly create Mine improvemenet regardless of base terrain",
+		"uniques": ["All cities provide 1 copy of Terracotta luxury resource","[+1 Science] from every [Iron]","[Worker] units gain the [Mine] promotion"],
 		"cities": ["Nok","Jos","Ife","Samun","Kagara","Janjala","Kwoi","Jere","Dokku","Bokkos","Riyom","Ogbabu","Pangajere","Taruga","Kamrun","Vom","Chakwama","Dogo-Dogo","Jagwa"]
 	},
 			{
@@ -291,7 +292,7 @@
 		
 		"declaringWar": "You are an obstacle and you shall be removed!",
 		"attacked": "Disappointing",
-		"defeated":  "Take my lands, but you will never take ou pride!",
+		"defeated":  "Take my lands, but you will never take our pride!",
 		"introduction":  "Welcome to my court. I bet our Incense got you here.",
 		
 		"neutralHello": "Hello, friend.",
@@ -311,5 +312,72 @@
 		"uniqueName": "Desert Paradise",
 		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","+[15]% Strength if within [1] tiles of a [Desert]"],
 		"cities": ["Zafar","Sana'a","Ma'rib","Najran","Mocha","Haram","Haywan","Mukhwan","Yabrin","Shabwa","Wa'lan","Libna","Nashaq","Timna","Sirwah","Quarnawu","Kaminahu","Baraqish"]
+	},
+				{
+		"name": "Epirus",
+		"leaderName": "Pyrrhus",
+		"adjective": ["Epirote"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "There can be only one king. Prepare for battle!",
+		"attacked": "I think my emissary must have been late, I already declared war on you!",
+		"defeated":  "You were a worthy opponent. The gods will welcome me!",
+		"introduction":  "Welcome to Epirus, friend. I am king Pyrrhus. Are you an ally... or perhaps a next target of my army?",
+		
+		"neutralHello": "Greeting",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!","You need to try harder."],
+		"hateYes": ["Let it be.","This offer is too good to reject."],
+		
+		"afterPeace": "Hail, great lord. This was indeed a good fight.",
+		"tradeRequest": "That should do.",
+
+		"innerColor": [	232, 170, 158],
+		"outerColor": [	94, 50, 0],
+		"uniqueName": "Pyrrhic Victory",
+		"uniqueText": "Can't train Settlers. All military units have + 50% more strength when attacking, but suffer -25% penalty when defending. Gain Free Worker whenever you conquer a new city. +50% Production when constructing military units.",
+		"uniques": ["[Military] units gain the [Pyrrhic Victory] promotion","+[50]% Production when constructing [Military] units"],
+		"cities": ["Ambracia","Phoenike","Passaron"]
+	},
+					{
+		"name": "Scythia",
+		"leaderName": "Ateas",
+		"adjective": ["Scythian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "TBD",
+		"startIntroPart2": "TBD",
+		
+		"declaringWar": "I am afraid your reign is over!",
+		"attacked": "We will sunk you in your own blood.",
+		"defeated":  "I must rest.",
+		"introduction":  "Welcome to the steppes. I am Ateas, the king of the Scythian people.",
+		
+		"neutralHello": "Greeting",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!","You need to try harder."],
+		"hateYes": ["Let it be.","This offer is too good to reject."],
+		
+		"afterPeace": "?",
+		"tradeRequest": "Do you like my offer?",
+
+		"outerColor": [	184, 154, 55],
+		"innerColor": [	84, 9, 9],
+		"uniqueName": "People of the Steppe",
+		"uniques": ["[+2 Food] from every [Horses]","Starts with [Archery]"],
+		"cities": ["Gelonus","Solokha","Aimonov","Tanais","Neapolis","Kalermes","Maikop","Tyras","Kul Oba","Olbia","Kerch","Mologeni","Bosporus","Chersonesos","Syebi","Phanogoria","Aorsi","Massagetae","Qabala"]
 	},
 ]

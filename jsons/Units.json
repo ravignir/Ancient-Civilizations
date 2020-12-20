@@ -129,4 +129,45 @@
 		"promotions": ["Mobility","Accuracy I"],
 		"attackSound": "arrow"
 	},
+		{
+		"name": "Tarantine Cavalry",
+		"unitType": "Ranged",
+		"uniqueTo": "Epirus",
+		"replaces": "Chariot Archer",
+		"movement": 3,
+		"strength": 9,
+		"rangedStrength": 9,
+		"cost": 65,
+		"requiredTech": "Trapping",
+		"upgradesTo": "Crossbowman",
+		"obsoleteTech": "Machinery",
+		"promotions": ["Mobility"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Penalty vs City 33%","May withdraw before melee ([133%])"],
+		"attackSound": "arrow"
+	},
+		{	
+		"name": "Nomadic Archer",
+		"replaces": "Archer",
+		"unitType": "Ranged",
+		"uniqueTo": "Scythia",
+		"movement": 2,
+		"strength": 4,
+		"rangedStrength": 9,
+		"cost": 30,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"promotions": ["Mount I"],
+		"attackSound": "arrow"
+	},
+		{
+		"name": "General",
+		"replaces": "Settler",
+		"unitType": "Civilian",
+		"uniqueTo": "Epirus",
+		"movement": 2,
+		"cost": 53,
+		"uniques": ["Can construct [Citadel]"],
+		"hurryCostModifier": 200
+	},
 ]

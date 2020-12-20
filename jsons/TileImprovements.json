@@ -36,4 +36,13 @@
 		"techRequired": "Construction",
 		"uniques": ["Can also be built on tiles adjacent to fresh water"]
 	},
+			{
+		"name": "Kurgan",
+		"uniqueTo": "Scythia",
+		"terrainsCanBeBuiltOn": ["Plains"],
+		"culture": 2,
+		"production": 1,
+		"turnsToBuild": 8,
+		"techRequired": "Masonry",
+	},
 ]

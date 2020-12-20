@@ -3,4 +3,18 @@
 		"name": "Mine",
 		"effect": "Can construct [Mine]",
 	},  
+		    	{
+		"name": "Mount I",
+		"effect": "Access to mount",
+	},  
+		    	{
+		"name": "Mount II",
+		"prerequisites": ["Mount I"],
+		"uniques": ["+1 Movement","+1 Movement","+[25]% Strength when defending"],
+			"unitTypes": ["Ranged"],
+	},  
+		    	{
+		"name": "Pyrrhic Victory",
+		"uniques": ["+[50]% Strength when attacking","+[-25]% Strength when defending"],
+	},  
 ]
