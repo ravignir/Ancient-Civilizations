@@ -19,7 +19,7 @@
         "name": "Free Terracotta",
         "uniqueTo": "Nok",
         "cost": -1,
-	"uniques": ["Provides [1] [Terracotta]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Incense]"],
+	"uniques": ["Provides [1] [Terracotta]","Will not be displayed in Civilopedia"],
 	},
 		{
         "name": "Myrrh",
@@ -37,7 +37,7 @@
         "requiredResource": "Incense",
 	 "requiredNearbyImprovedResources": ["Incense"],
 	 "cannotBeBuiltWith": "Myrrh",
-	"uniques": ["Provides [1] [Frankincense]","Will not be displayed in Civilopedia"],
+	"uniques": ["Provides [1] [Frankincense]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Incense]"],
 	},
 	{
         "name": "Great Person Bonus1",
