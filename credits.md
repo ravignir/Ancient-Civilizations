@@ -85,3 +85,6 @@ Artaxiad dynasty flag https://www.peopleofar.com/2017/01/30/reconstructing-artax
 
 Translations:
 Smashfanful - Italian
+paontv - Japanese
+Fixes:
+Smashfanful
