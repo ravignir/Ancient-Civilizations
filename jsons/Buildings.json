@@ -6,7 +6,7 @@
 	"isNationalWonder": true,
 	"cannotBeBuiltWith": "Palace",
 	"requiredBuilding": "Palace",
-	"uniques": ["Will not be displayed in Civilopedia","UU"]
+	"uniques": ["Will not be displayed in Civilopedia","Unique Ability"]
 },
 	{
         "name": "Food Bonus",

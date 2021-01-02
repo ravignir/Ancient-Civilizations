@@ -10,7 +10,7 @@
 		    	{
 		"name": "Mount II",
 		"prerequisites": ["Mount I"],
-		"uniques": ["+1 Movement","+1 Movement","+[25]% Strength when defending"],
+		"uniques": ["+1 Movement","+1 Movement","+[15]% Strength when defending"],
 			"unitTypes": ["Ranged"],
 	},  
 		    	{

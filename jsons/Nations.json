@@ -11,7 +11,7 @@
 		
 		"declaringWar": "That's enough, prepare to be smashed into the dust!",
 		"attacked": "You dare to attack a demigod? You will regret this sooner than you think!",
-		"defeated": "Defeat. A mere mortal emerged victorious. Can't wait to see how long will you last. Even demigods aren't invicible.",
+		"defeated": "Defeat. A mere mortal emerged victorious. Can't wait to see how long you will last. Even demigods aren't invicible.",
 		"introduction": "I am Gilgamesh, a demigod who descended to Earth to lead the mighty city of Uruk. Let there be peace among us!",
 		
 		"neutralHello": "Be blessed, friend.",
@@ -23,7 +23,7 @@
 		"hateNo": ["Are you joking?","Are you sure?"],
 		"hateYes": ["I can accept.","Fine.","Let it be."],
 		
-		"afterPeace": "Oh, a peace. Maybe we should celebrate it?",
+		"afterPeace": "Maybe we should celebrate the end of war?",
 		"tradeRequest": "I present you this trade offer.",
 
 		"outerColor": [43, 35, 82],
@@ -131,7 +131,7 @@
 		"hateNo": ["You can't be serious!","No one would agree to that. Ever."],
 		"hateYes": ["Fine.","You can't simply refuse such offer."],
 		
-		"afterPeace": "Let this peace last ages!",
+		"afterPeace": "You should pray for this peace to last ages!",
 		"tradeRequest": "What about this?",
 
 		"outerColor": [	172, 142, 97],
@@ -188,9 +188,9 @@
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
 		
-		"declaringWar": "You have had your chance, prepare for war!",
+		"declaringWar": "You have had your chance, now prepare for war!",
 		"attacked": "You DARE declare war on us? We shall make you suffer!",
-		"defeated":  "So that is how it all ends. In sea of tears and blood.",
+		"defeated":  "So that is how it all ends. I've never expected to end as a slave!",
 		"introduction":  "Who are you? I bet You are here to admire our wealth.",
 		
 		"neutralHello": "Greetings.",
@@ -202,7 +202,7 @@
 		"hateNo": ["You can't be serious!","No one would agree to that. Ever."],
 		"hateYes": ["Fine.","You can't simply refuse such offer."],
 		
-		"afterPeace": "We shall now pray for the better days!",
+		"afterPeace": "We shall now pray for the better, I mean more profitable, days!",
 		"tradeRequest": "I bring you an excellent offer!",
 
 		"outerColor": [	84, 215, 247],
@@ -223,7 +223,7 @@
 		"startIntroPart1": "TBD",
 		"startIntroPart2": "TBD",
 		
-		"declaringWar": "War! The Feathered Serpent demands blood!",
+		"declaringWar": "War! The Feathered Serpent demands sacrificial blood!",
 		"attacked": "Is it bravery or stupidity?",
 		"defeated":  "That's the greatest sacrifice I can offer You!",
 		"introduction":  "Were you send by the great Serpent?",
@@ -237,7 +237,7 @@
 		"hateNo": ["I can't accept!"],
 		"hateYes": ["Let it be."],
 		
-		"afterPeace": "Yes, what such bloodhirsty beast might want?",
+		"afterPeace": "What such bloodhirsty beast might want?",
 		"tradeRequest": "What do you think?",
 
 		"outerColor": [	91, 176, 156],
@@ -276,7 +276,7 @@
 		"outerColor": [	189, 182, 125],
 		"innerColor": [	82, 70, 55],
 		"uniqueName": "African Treasures",
-		"uniqueText": "All cities provide 1 copy of Terracotta luxury resource. +1 Science from every Iron. Workers may expended to instantly create Mine improvemenet regardless of base terrain",
+		"uniqueText": "All cities provide 1 copy of Terracotta luxury resource. +1 Science from every Iron. Workers may be expended to instantly create Mine improvemenet regardless of base terrain",
 		"uniques": ["All cities provide 1 copy of Terracotta luxury resource","[+1 Science] from every [Iron]","[Worker] units gain the [Mine] promotion"],
 		"cities": ["Nok","Jos","Ife","Samun","Kagara","Janjala","Kwoi","Jere","Dokku","Bokkos","Riyom","Ogbabu","Pangajere","Taruga","Kamrun","Vom","Chakwama","Dogo-Dogo","Jagwa"]
 	},
@@ -291,9 +291,9 @@
 		"startIntroPart2": "TBD",
 		
 		"declaringWar": "You are an obstacle and you shall be removed!",
-		"attacked": "Disappointing",
-		"defeated":  "Take my lands, but you will never take our pride!",
-		"introduction":  "Welcome to my court. I bet our Incense got you here.",
+		"attacked": "Disappointing...",
+		"defeated":  "You may take our lands, but you will never take our pride!",
+		"introduction":  "Welcome to my court. I bet the smell of our Incense got you here.",
 		
 		"neutralHello": "Hello, friend.",
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
@@ -304,7 +304,7 @@
 		"hateNo": ["I can't accept!","You need to try harder."],
 		"hateYes": ["Let it be.","This offer is too good to reject."],
 		
-		"afterPeace": "Yes?",
+		"afterPeace": "Yes? A candle of peace?",
 		"tradeRequest": "I think that's a fair offer.",
 
 		"outerColor": [	31, 31, 31],
@@ -326,7 +326,7 @@
 		"declaringWar": "There can be only one king. Prepare for battle!",
 		"attacked": "I think my emissary must have been late, I already declared war on you!",
 		"defeated":  "You were a worthy opponent. The gods will welcome me!",
-		"introduction":  "Welcome to Epirus, friend. I am king Pyrrhus. Are you an ally... or perhaps a next target of my army?",
+		"introduction":  "Welcome to Epirus, friend. I am king Pyrrhus. Are you another expenda... I mean Ally... or perhaps a next target of my army?",
 		
 		"neutralHello": "Greeting",
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
@@ -371,7 +371,7 @@
 		"hateNo": ["I can't accept!","You need to try harder."],
 		"hateYes": ["Let it be.","This offer is too good to reject."],
 		
-		"afterPeace": "?",
+		"afterPeace": "I hope you've learned something from our last dispute.",
 		"tradeRequest": "Do you like my offer?",
 
 		"outerColor": [	184, 154, 55],

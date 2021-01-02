@@ -12,7 +12,7 @@
 		"unitType": "WaterRanged",
 		"uniqueTo": "Phoenicia",
 		"replaces": "Trireme",
-		"movement": 4,
+		"movement": 3,
 		"strength": 8,
 		"rangedStrength": 8,
 		"range": 2,
