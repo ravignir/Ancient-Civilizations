@@ -138,7 +138,7 @@
 		"innerColor": [	71, 6, 23],
 		"uniqueName": "Iron Pioneers",
 		"uniqueText": "Iron and Horses tiles yield additional 1 Gold and 1 Production. Receive +10% Production bonus when constructing military units.",
-		"uniques": ["+[10]% Production when constructing [military units]","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]","[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]"],
+		"uniques": ["+[10]% Production when constructing [Military] units","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]","[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]"],
 		"cities": ["Hattusa","Nesa","Kussara","Samuha","Tarhuntassa","Kadesh","Lusna","Alalah","Halab","Tunip","Kadesh",
 			"Zalpa","Hakpish","Nerik","Shallapsa","Arinna","Adaniya","Apasha","Waliwanda","Tapikka","Tuwanuwa",
 			"Ura","Milid","Urshu","Arwada","Sanahuitta","Dimashku","Millawanda","Gaziura","Ugarit"]
