@@ -344,7 +344,7 @@
 		"outerColor": [	94, 50, 0],
 		"uniqueName": "Pyrrhic Victory",
 		"uniqueText": "Can't train Settlers. All military units have + 50% more strength when attacking, but suffer -25% penalty when defending. Gain Free Worker whenever you conquer a new city. +50% Production when constructing military units.",
-		"uniques": ["[Military] units gain the [Pyrrhic Victory] promotion","+[20]% Production when constructing [Military] units [in all cities]"],
+		"uniques": ["[Military] units gain the [Pyrrhic Victory] promotion","+[50]% Production when constructing [Military] units [in all cities]"],
 		"cities": ["Ambracia","Phoenike","Passaron"]
 	},
 					{
