@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Sumeria",
+		"name": "Sumer",
 		"leaderName": "Gilgamesh",
 		"adjective": ["Sumerian"],
 		"startBias": ["Flood plains"],
@@ -37,7 +37,7 @@
 			"Aratta","Kutu","Der"]
 	},
 	{
-		"name": "Israel",
+		"name": "Israeli",
 		"leaderName": "Solomon",
 		"adjective": ["Israeli"],
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]","Avoid [Tundra]"],
@@ -73,7 +73,7 @@
 			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
 	},
 	{
-		"name": "Phoenicia",
+		"name": "Phoenician",
 		"leaderName": "Hiram I",
 		"adjective": ["Phoenician"],
 		"startBias": ["Coast"],
@@ -144,7 +144,7 @@
 			"Ura","Milid","Urshu","Arwada","Sanahuitta","Dimashku","Millawanda","Gaziura","Ugarit"]
 	},
 	{
-		"name": "Armenia",
+		"name": "Armenian",
 		"leaderName": "Tigranes II",
 		"adjective": ["Armenian"],
 		"startBias": ["Hill"],

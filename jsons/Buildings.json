@@ -1,7 +1,7 @@
 [
 	{
         "name": "Mediterranean Lords",
-	"uniqueTo": "Phoenicia",
+	"uniqueTo": "Phoenician",
         "cost": -1,
 	"isNationalWonder": true,
 	"cannotBeBuiltWith": "Palace",
@@ -10,7 +10,7 @@
 },
 	{
         "name": "Food Bonus",
-        "uniqueTo": "Sumeria",
+        "uniqueTo": "Sumer",
         "cost": -1,
 	"food": 2,
 	"uniques": ["Must be next to [Fresh water]","Will not be displayed in Civilopedia"],
@@ -137,7 +137,7 @@
 	},
 {
         "name": "Phoenician Alphabet",
-        "uniqueTo": "Phoenicia",
+        "uniqueTo": "Phoenician",
 	"isNationalWonder": true,
         "cost": -1,
 	"cannotBeBuiltWith": "Mediterranean Lords",
@@ -148,7 +148,7 @@
 	},
 {
         "name": "Phoenician Culture",
-        "uniqueTo": "Phoenicia",
+        "uniqueTo": "Phoenician",
 	"isNationalWonder": true,
         "cost": -1,
 	"cannotBeBuiltWith": "Mediterranean Lords",
@@ -159,7 +159,7 @@
 	},
 {
         "name": "Phoenician Solidarity",
-        "uniqueTo": "Phoenicia",
+        "uniqueTo": "Phoenician",
 	"isNationalWonder": true,
         "cost": -1,
 	"cannotBeBuiltWith": "Mediterranean Lords",
@@ -170,7 +170,7 @@
 	},
 {
         "name": "Phoenician Wealth",
-        "uniqueTo": "Phoenicia",
+        "uniqueTo": "Phoenician",
 	"isNationalWonder": true,
         "cost": -1,
 	"cannotBeBuiltWith": "Mediterranean Lords",
@@ -181,7 +181,7 @@
 	},
 {
         "name": "Phoenician Plenty",
-        "uniqueTo": "Phoenicia",
+        "uniqueTo": "Phoenician",
 	"isNationalWonder": true,
         "cost": -1,
 	"cannotBeBuiltWith": "Mediterranean Lords",
@@ -193,7 +193,7 @@
 	{
 		"name": "Ziggurat",
 		"replaces": "Temple",
-		"uniqueTo": "Sumeria", 
+		"uniqueTo": "Sumer", 
 		"maintenance": 3,
 		"culture": 2,
 		"science": 1,
@@ -206,7 +206,7 @@
 	{
 		"name": "Synagogue",
 		"replaces": "Temple",
-		"uniqueTo": "Israel", 
+		"uniqueTo": "Israeli", 
 		"maintenance": 2,
 		"culture": 3,
 		"happiness": 1,
@@ -241,7 +241,7 @@
 	{
 		"name": "Khachkar",
 		"replaces": "Monument",
-		"uniqueTo": "Armenia", 
+		"uniqueTo": "Armenian", 
 		"culture": 2,
 		"cost": 40,
 		"hurryCostModifier": 40,

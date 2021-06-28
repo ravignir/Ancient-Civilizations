@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Seaside Stall",
-		"uniqueTo": "Phoenicia",
+		"uniqueTo": "Phoenician",
 		"food": 1,
 		"gold": 1,
 		"production": 1,

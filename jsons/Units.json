@@ -2,7 +2,7 @@
 	{
 		"name": "Prophet",
 		"unitType": "Civilian",
-		"uniqueTo": "Israel",
+		"uniqueTo": "Israeli",
 		"replaces": "Great Artist",
 		"uniques": ["Founds a new city","Can construct [Holy Place]","Great Person - [Culture]","Heal adjacent units for an additional 15 HP per turn","Unbuildable"],
 		"movement": 2
@@ -10,7 +10,7 @@
 	{
 		"name": "Bireme",
 		"unitType": "WaterRanged",
-		"uniqueTo": "Phoenicia",
+		"uniqueTo": "Phoenician",
 		"replaces": "Trireme",
 		"movement": 3,
 		"strength": 8,
@@ -44,7 +44,7 @@
 	{
 		"name": "Phalanx",
 		"unitType": "Melee",
-		"uniqueTo": "Sumeria",
+		"uniqueTo": "Sumer",
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 8,
@@ -73,7 +73,7 @@
 	{
 		"name": "Artaxiad Noble",
 		"unitType": "Mounted",
-		"uniqueTo": "Armenia",
+		"uniqueTo": "Armenian",
 		"replaces": "Horseman",
 		"movement": 3,
 		"strength": 14,
