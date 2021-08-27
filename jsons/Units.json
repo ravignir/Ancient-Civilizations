@@ -169,7 +169,7 @@
 		"movement": 2,
 		"cost": 53,
 		"uniques": ["Can construct [Citadel]"],
-		"hurryCostModifier": 200
+		"hurryCostModifier": 200,
                 "requiredTech": "Mining",
 	},
 ]
