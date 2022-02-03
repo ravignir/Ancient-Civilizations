@@ -10,11 +10,11 @@
 		    	{
 		"name": "Mount II",
 		"prerequisites": ["Mount I"],
-		"uniques": ["[+2] Movement","+[15]% Strength when defending"],
+		"uniques": ["[+2] Movement","[+15]% Strength <when defending>"],
 			"unitTypes": ["Ranged"],
 	},  
 		    	{
 		"name": "Pyrrhic Victory",
-		"uniques": ["+[50]% Strength when attacking","[-25]% Strength when defending"],
+		"uniques": ["[+50]% Strength <when attacking>","[-25]% Strength <when defending>"],
 	},  
 ]
