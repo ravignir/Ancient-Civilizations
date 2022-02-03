@@ -143,7 +143,7 @@
 		"upgradesTo": "Crossbowman",
 		"obsoleteTech": "Machinery",
 		"promotions": ["Mobility"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Penalty vs City 33%","May withdraw before melee ([133%])"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Penalty vs City 33%","May withdraw before melee ([133]%)"],
 		"attackSound": "arrow"
 	},
 		{	
