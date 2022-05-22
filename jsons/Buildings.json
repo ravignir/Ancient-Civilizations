@@ -29,7 +29,7 @@
 		"specialistSlots": {"Scientist": 1},
 		"cost":120,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Faith] from [River] tiles [in this city]"],
+		"uniques": ["[+1 Faith] from [River] tiles [in this city]","1 Scientist slot"],
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Construction"
 	},
@@ -40,7 +40,7 @@
 		"faith": 2,
 		"happiness": 1,
 		"gold": 2,
-		"cost": 120,
+		"cost": 100,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Shrine"
 		"requiredTech": "Theology"

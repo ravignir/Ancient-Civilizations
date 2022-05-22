@@ -83,7 +83,7 @@
 		"replaces": "Horseman",
 		"movement": 3,
 		"strength": 12,
-		"cost": 70,
+		"cost": 75,
 		"requiredTech": "Trapping",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
