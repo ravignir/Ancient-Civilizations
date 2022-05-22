@@ -1,48 +1,49 @@
 [
 	{
-		"name": "Holy Place",
-		"replaces": "Landmark"
-		"culture": 3,
-		"gold": 1,
-		"food": 1,
-		"production": 1,
-		"uniques": ["Gives a defensive bonus of [50]%","Great Improvement"]
-	},
-	{
 		"name": "Seaside Stall",
-		"uniqueTo": "Phoenician",
-		"food": 1,
+		"uniqueTo": "Phoenicia",
 		"gold": 1,
-		"production": 1,
-		"turnsToBuild": 9,
-		"techRequired": "Optics",
-		"uniques": ["Can only be built on Coastal tiles","[+1 Production] once [Compass] is discovered","[+1 Gold] once [Navigation] is discovered"]
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 8,
+		"techRequired": "Currency",
+		"uniques": ["Can only be built on [Coastal] tiles","[+1 Food] for each adjacent [Fishing Boats]","[+1 Production] <after discovering [Navigation]>"]
 	},
 		{
 		"name": "Colossal Head",
-		"uniqueTo": "Olmec",
+		"uniqueTo": "The Olmec",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland"],
-		"science": 0,
+		"faith": 1,
 		"turnsToBuild": 8,
 		"techRequired": "Calendar",
-		"uniques": ["[+1 Culture] once [Archaeology] is discovered","[+1 Science] for each adjacent [Jungle]"]
+		"uniques": ["[+1 Culture] <after discovering [Archaeology]>","[+1 Science] for each adjacent [Jungle]"]
 	},
 		{
-		"name": "Dam",
+		"name": "Desert Plantation",
 		"uniqueTo": "Himyar",
-		"food": 1,
-		"production": 1,
-		"turnsToBuild": 8,
-		"techRequired": "Construction",
-		"uniques": ["Can also be built on tiles adjacent to fresh water"]
+		"terrainsCanBeBuiltOn": ["Desert"],
+		"gold": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Mathematics",
+		"uniques": ["Provides [1] [Incense]","Cannot be built on [Flood plains] tiles"]
 	},
 			{
 		"name": "Kurgan",
 		"uniqueTo": "Scythia",
 		"terrainsCanBeBuiltOn": ["Plains"],
 		"culture": 2,
-		"production": 1,
+		"faith": 1,
 		"turnsToBuild": 8,
 		"techRequired": "Masonry",
+		"uniques": ["[+1 Culture] <after discovering [Archaeology]>"]
+	},
+	{
+		"name": "Outpost",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniqueTo": "Epirus",
+		"uniques": ["Gives a defensive bonus of [25]%","Costs [3] gold per turn when in your territory",
+			"Can be built just outside your borders",
+        	"Constructing it will take over the tiles around it and assign them to your closest city",
+			"Removes removable features when built",
+		]
 	},
 ]

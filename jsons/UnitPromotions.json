@@ -1,20 +1,32 @@
 [
 	    	{
 		"name": "Mine",
-		"effect": "Can construct [Mine]",
+		"uniques": ["Can construct [Mine]"],
+	},  
+	{
+		"name": "Cradle of Civilization",
+		"uniques": ["Double movement in [River]"],
 	},  
 		    	{
-		"name": "Mount I",
-		"effect": "Access to mount",
+		"name": "Steppe Hunter",
+		"uniques": ["Can receive bonus movement promotion"],
 	},  
 		    	{
-		"name": "Mount II",
-		"prerequisites": ["Mount I"],
-		"uniques": ["[+2] Movement","[+15]% Strength <when defending>"],
-			"unitTypes": ["Ranged"],
+		"name": "Mount",
+		"prerequisites": ["Steppe Hunter"],
+		"uniques": ["Consumes [1] [Horses]","[+2] Movement","[+15]% Strength <when defending>"],
+		"unitTypes": ["Archery"],
 	},  
 		    	{
 		"name": "Pyrrhic Victory",
-		"uniques": ["[+50]% Strength <when attacking>","[-25]% Strength <when defending>"],
+		"uniques": ["[+40]% Strength <when attacking>","[-20]% Strength <when defending>"],
 	},  
+	{
+		"name": "Favorable Winds",
+		"uniques": ["Can move after attacking"]
+	},
+	{
+		"name": "Outpost",
+		"uniques": ["Can construct [Outpost]"]
+	},	
 ]

@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Sumer",
+		"name": "Sumeria",
 		"leaderName": "Gilgamesh",
 		"adjective": ["Sumerian"],
 		"startBias": ["Flood plains"],
@@ -29,15 +29,15 @@
 		"outerColor": [43, 35, 82],
 		"innerColor": [189, 145, 158],
 		"uniqueName": "Cradle of Civilization",
-		"uniqueText": "Additional 3 Science in capital and additional 1 Science in any other city. Cities with access to Fresh water have +2 Food.",
-		"uniques": ["[+2 Science] in capital", "[+1 Science] in all cities","+2 Food in cities with access to Fresh water"],
+		"uniqueText": "All land units move twice as fast on tiles next to rivers. +2 Science in Capital",
+		"uniques": ["[+2 Science] [in capital]","[Land] units gain the [Cradle of Civilization] promotion"],
 		"cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
 			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
 			"Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
 			"Aratta","Kutu","Der"]
 	},
 	{
-		"name": "Israeli",
+		"name": "Israel",
 		"leaderName": "Solomon",
 		"adjective": ["Israeli"],
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]","Avoid [Tundra]"],
@@ -47,7 +47,7 @@
 		"startIntroPart2": "TBD",
 		
 		"declaringWar": "The Lord demands justice!",
-		"attacked": "The Lord told me your plans. We are prepared!",
+		"attacked": "The Lord presented me your plans. We are prepared!",
 		"defeated":  "Is this how my peaceful reign ends? In a river of blood and suffering...",
 		"introduction":  "I am Solomon, King of the Chosen People. If you seek justice or advice, know that you had found them.",
 		
@@ -66,14 +66,13 @@
 		"outerColor": [	255, 255, 204],
 		"innerColor": [	51, 153, 255],
 		"uniqueName": "Promised Land",
-		"uniqueText": "Pastures yield additional 1 Food and 1 Culture. Receive Prophet when you discover Calendar. Prophets are earned 25% faster.",
-		"uniques": ["Receive free [Prophet] when you discover [Calendar]","[Prophet] is earned [25]% faster","[+1 Culture] from every [Pasture]","[+1 Food] from every [Pasture]"],
+		"uniques": ["[+1 Culture] from every [Pasture]","[+1 Food] from every [Pasture]","[+1 Faith] per [4] population [in all cities]"],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
 			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
 			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
 	},
 	{
-		"name": "Phoenician",
+		"name": "Phoenicia",
 		"leaderName": "Hiram I",
 		"adjective": ["Phoenician"],
 		"startBias": ["Coast"],
@@ -101,8 +100,8 @@
 
 		"outerColor": [	102, 51, 153],
 		"innerColor": [	154, 221, 255],
-		"uniqueName": "Mediterranean Lords",
-		"uniques": ["Your first 5 coastal cities provide +10% Gold and your choice of +3: Production or Science or Culture or Happiness or Food. Each bonus can be choosen only once."],
+		"uniqueName": "Mediterranean Seafarers",
+		"uniques": ["Starts with [Sailing]","[+1 Gold] from every [Fishing Boats]","[+50]% Production when constructing [Work Boats] units [in all cities]"],
 		"cities": ["Tyre","Sidon","Byblos","Sarepta","Berytos","Carthage","Baalbek","Zili","Akko","Dor","Arados",
 			"Quart Hadasht","Leptis","Utica","Karalis","Oia","Sabratha","Hadrumentum","Icosium","Iol","Thapsos",
 			"Melita","Kossyra","Gadir","Tartessos","Tharros","Magador","Igilgili","Cirta","Ebusos"]
@@ -144,7 +143,7 @@
 			"Ura","Milid","Urshu","Arwada","Sanahuitta","Dimashku","Millawanda","Gaziura","Ugarit"]
 	},
 	{
-		"name": "Armenian",
+		"name": "Armenia",
 		"leaderName": "Tigranes II",
 		"adjective": ["Armenian"],
 		"startBias": ["Hill"],
@@ -172,9 +171,8 @@
 
 		"outerColor": [	128, 9, 46],
 		"innerColor": [	204, 170, 118],
-		"uniqueName": "Sacred Mountains",
-		"uniqueText": "All Mountains yield additional 2 Culture and 1 Happiness. Double quantity of Horses and units ignore terrain cost when moving into any tile with Hills.", 
-		"uniques": ["Double quantity of [Horses] produced","Units ignore terrain costs when moving into any tile with Hills","[+2 Culture] from every [Mountain]","[+1 Happiness] from every [Mountain]"],
+		"uniqueName": "Sacred Mountains", 
+		"uniques": ["Double quantity of [Horses] produced","[Mounted] units gain the [Ignore terrain cost] promotion","[+1 Food, +1 Culture, +1 Production] from every [Mountain]"],
 		"cities": ["Yerevan","Tigranakert","Artashat","Yervandashat","Armavir","Gyumri","Vanadzor","Abovyan","Kapan","Ararat","Gavar",
 		"Hrazdan","Ijevan","Goris","Ashtarak","Masis"]
 	}
@@ -208,13 +206,13 @@
 		"outerColor": [	84, 215, 247],
 		"innerColor": [	255, 255, 255],
 		"uniqueName": "Shackles of Gold",
-		"uniqueText": "Earns Gold for killing enemy Land units. Conquered cities yield 15% more Gold and Culture", 
-		"uniques": ["Earn [150]% of [Land] opponent's [Strength] as [Gold] for kills"],
-		"cities": ["Mogadishu","Avalite","Botiala","Gondal","Toniki","Nikon","Salweyn","Miandi","Sarapion","Hannassa","Bulhar",
+		"uniqueText": "Earns Gold for killing enemy Land units", 
+		"uniques": ["Earn [100]% of [Land] opponent's [Strength] as [Gold] for kills"],
+		"cities": ["Mogadishu","Avalite","Botiala","Gondal","Toniki","Salweyn","Miandi","Sarapion","Hannassa","Bulhar",
 		"Essina","Famo","Mosylon","Opone","Nikon","Mundus"]
 	},
 		{
-		"name": "Olmec",
+		"name": "The Olmec",
 		"leaderName": "U Kix Chan",
 		"adjective": ["Olmec"],
 		"startBias": ["Jungle","Coast"],
@@ -243,7 +241,7 @@
 		"outerColor": [	91, 176, 156],
 		"innerColor": [ 40, 94, 68],
 		"uniqueName": "Feathered Serpent",
-		"uniques": ["Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time"],
+		"uniques": ["[+3 Faith] from every [Great Improvement]"],
 		"cities": ["La Venta","San Lorenzo","Tres Zapotes","Izapa","Tzapotl","Tonala","Texpa","Tlapocoya","Xoc","Coatztitlan","Izacoya"]
 	},
 			{
@@ -276,15 +274,15 @@
 		"outerColor": [	189, 182, 125],
 		"innerColor": [	82, 70, 55],
 		"uniqueName": "African Treasures",
-		"uniqueText": "All cities provide 1 copy of Terracotta luxury resource. +1 Science from every Iron. Workers may be expended to instantly create Mine improvemenet regardless of base terrain",
-		"uniques": ["All cities provide 1 copy of Terracotta luxury resource","[+1 Science] from every [Iron]","[Worker] units gain the [Mine] promotion"],
+		"uniqueText": "All cities provide 1 copy of Terracotta luxury resource. +1 Science from every Iron. Workers may be expended to instantly create Mine improvement regardless of base terrain",
+		"uniques": ["Gain a free [Free Terracotta] [in all cities]","[+1 Science] from every [Iron]","[Worker] units gain the [Mine] promotion"],
 		"cities": ["Nok","Jos","Ife","Samun","Kagara","Janjala","Kwoi","Jere","Dokku","Bokkos","Riyom","Ogbabu","Pangajere","Taruga","Kamrun","Vom","Chakwama","Dogo-Dogo","Jagwa"]
 	},
 			{
 		"name": "Himyar",
 		"leaderName": "Charibael",
 		"adjective": ["Himyarite"],
-		"startBias": ["Incense","Spices","Desert"],
+		"startBias": ["Desert","Incense"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "TBD",
@@ -343,8 +341,8 @@
 		"innerColor": [	232, 170, 158],
 		"outerColor": [	94, 50, 0],
 		"uniqueName": "Pyrrhic Victory",
-		"uniqueText": "Can't train Settlers. All military units have + 50% more strength when attacking, but suffer -25% penalty when defending. Gain Free Worker whenever you conquer a new city. +50% Production when constructing military units.",
-		"uniques": ["[Military] units gain the [Pyrrhic Victory] promotion","+[50]% Production when constructing [Military] units [in all cities]"],
+		"uniqueText": "Can't train Settlers. All military units have + 40% more strength when attacking, but suffer -20% penalty when defending. +25% Production when constructing military units in capital. Workers may be expended to create Outpost improvement.",
+		"uniques": ["Cannot build [Settler] units","[Worker] units gain the [Outpost] promotion", "[Military] units gain the [Pyrrhic Victory] promotion","[+25]% Production when constructing [Military] units [in capital]"],
 		"cities": ["Ambracia","Phoenike","Passaron"]
 	},
 					{
@@ -377,7 +375,7 @@
 		"outerColor": [	184, 154, 55],
 		"innerColor": [	84, 9, 9],
 		"uniqueName": "People of the Steppe",
-		"uniques": ["[+2 Food] from every [Horses]","Starts with [Archery]"],
+		"uniques": ["[+1 Food] from every [Horses]","Starts with [Archery]"],
 		"cities": ["Gelonus","Solokha","Aimonov","Tanais","Neapolis","Kalermes","Maikop","Tyras","Kul Oba","Olbia","Kerch","Mologeni","Bosporus","Chersonesos","Syebi","Phanogoria","Aorsi","Massagetae","Qabala"]
 	},
 ]

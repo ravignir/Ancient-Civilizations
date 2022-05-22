@@ -1,221 +1,48 @@
 [
 	{
-        "name": "Mediterranean Lords",
-	"uniqueTo": "Phoenician",
-        "cost": -1,
-	"isNationalWonder": true,
-	"cannotBeBuiltWith": "Palace",
-	"requiredBuilding": "Palace",
-	"uniques": ["Will not be displayed in Civilopedia","Unique Ability"]
-},
-	{
-        "name": "Food Bonus",
-        "uniqueTo": "Sumer",
-        "cost": -1,
-	"food": 2,
-	"uniques": ["Must be next to [Fresh water]","Will not be displayed in Civilopedia"],
-	},
-			{
         "name": "Free Terracotta",
         "uniqueTo": "Nok",
         "cost": -1,
-	"uniques": ["Provides [1] [Terracotta]","Will not be displayed in Civilopedia"],
+	"uniques": ["Provides [1] [Terracotta]","Will not be displayed in Civilopedia","Unsellable","Destroyed when the city is captured"],
 	},
 		{
         "name": "Myrrh",
         "uniqueTo": "Himyar",
         "cost": -1,
-        "requiredResource": "Incense",
-	 "requiredNearbyImprovedResources": ["Incense"],
 	 "cannotBeBuiltWith": "Frankincense",
-	"uniques": ["Provides [1] [Myrrh]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Incense]"],
+	"uniques": ["Consumes [1] [Incense]","Provides [1] [Myrrh]","Unsellable","Will not be displayed in Civilopedia","Not displayed as an available construction without [Incense]"],
 	},
 			{
         "name": "Frankincense",
         "uniqueTo": "Himyar",
         "cost": -1,
-        "requiredResource": "Incense",
-	 "requiredNearbyImprovedResources": ["Incense"],
 	 "cannotBeBuiltWith": "Myrrh",
-	"uniques": ["Provides [1] [Frankincense]","Will not be displayed in Civilopedia","Not displayed as an available construction without [Incense]"],
-	},
-	{
-        "name": "Great Person Bonus1",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "Temple",
-        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Temple] is built"]
-	},
-		{
-        "name": "Great Person Bonus2",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "Market",
-        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Market] is built"]
-	},
-			{
-        "name": "Great Person Bonus3",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "Workshop",
-        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Workshop] is built"]
-	},
-				{
-        "name": "Great Person Bonus4",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "University",
-        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [University] is built"]
-	},
-				{
-        "name": "Great Person Bonus5",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "Opera House",
-        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Opera House] is built"]
-	},
-				{
-        "name": "Great Person Bonus6",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "Bank",
-        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Bank] is built"]
-	},
-					{
-        "name": "Great Person Bonus7",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "Stock Exchange",
-        "uniques": ["[Great Merchant] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Stock Exchange] is built"]
-	},
-					{
-        "name": "Great Person Bonus8",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "Museum",
-        "uniques": ["[Great Artist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Museum] is built"]
-	},
-					{
-        "name": "Great Person Bonus9",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "Windmill",
-        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Windmill] is built"]
-	},
-					{
-        "name": "Great Person Bonus10",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "Public School",
-        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Public School] is built"]
-	},
-						{
-        "name": "Great Person Bonus11",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "Research Lab",
-        "uniques": ["[Great Scientist] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Research Lab] is built"]
-	},
-					{
-        "name": "Great Person Bonus12",
-        "uniqueTo": "Olmec",
-		"isNationalWonder": true,
-        "cost": -1,
-		"requiredBuilding": "Factory",
-        "uniques": ["[Great Engineer] is earned [10]% faster","Will not be displayed in Civilopedia","Not displayed as an available construction unless [Factory] is built"]
-	},
-{
-        "name": "Phoenician Alphabet",
-        "uniqueTo": "Phoenician",
-	"isNationalWonder": true,
-        "cost": -1,
-	"cannotBeBuiltWith": "Mediterranean Lords",
-        "providesFreeBuilding": "Mediterranean Lords",
-	"percentStatBonus": {"gold":10},
-	"science": 3,
-        "uniques": ["Can only be built in coastal cities","Will not be displayed in Civilopedia"]
-	},
-{
-        "name": "Phoenician Culture",
-        "uniqueTo": "Phoenician",
-	"isNationalWonder": true,
-        "cost": -1,
-	"cannotBeBuiltWith": "Mediterranean Lords",
-        "providesFreeBuilding": "Mediterranean Lords",
-	"percentStatBonus": {"gold":10},
-	"culture": 3,
-        "uniques": ["Can only be built in coastal cities","Will not be displayed in Civilopedia"]
-	},
-{
-        "name": "Phoenician Solidarity",
-        "uniqueTo": "Phoenician",
-	"isNationalWonder": true,
-        "cost": -1,
-	"cannotBeBuiltWith": "Mediterranean Lords",
-        "providesFreeBuilding": "Mediterranean Lords",
-	"percentStatBonus": {"gold":10},
-	"production": 3,
-        "uniques": ["Can only be built in coastal cities","Will not be displayed in Civilopedia"]
-	},
-{
-        "name": "Phoenician Wealth",
-        "uniqueTo": "Phoenician",
-	"isNationalWonder": true,
-        "cost": -1,
-	"cannotBeBuiltWith": "Mediterranean Lords",
-        "providesFreeBuilding": "Mediterranean Lords",
-	"percentStatBonus": {"gold":10},
-	"happiness": 3,
-        "uniques": ["Can only be built in coastal cities","Will not be displayed in Civilopedia"]
-	},
-{
-        "name": "Phoenician Plenty",
-        "uniqueTo": "Phoenician",
-	"isNationalWonder": true,
-        "cost": -1,
-	"cannotBeBuiltWith": "Mediterranean Lords",
-        "providesFreeBuilding": "Mediterranean Lords",
-	"percentStatBonus": {"gold":10},
-	"food": 3,
-        "uniques": ["Can only be built in coastal cities","Will not be displayed in Civilopedia"]
+	"uniques": ["Consumes [1] [Incense]","Provides [1] [Frankincense]","Unsellable","Will not be displayed in Civilopedia","Not displayed as an available construction without [Incense]"],
 	},
 	{
 		"name": "Ziggurat",
 		"replaces": "Temple",
-		"uniqueTo": "Sumer", 
+		"uniqueTo": "Sumeria", 
 		"maintenance": 3,
-		"culture": 2,
+		"faith": 1,
 		"science": 1,
 		"specialistSlots": {"Scientist": 1},
 		"cost":120,
 		"hurryCostModifier": 25,
-		"requiredBuilding": "Monument"
+		"uniques": ["[+1 Faith] from [River] tiles [in this city]"],
+		"requiredBuilding": "Shrine",
 		"requiredTech": "Construction"
 	},
 	{
 		"name": "Synagogue",
 		"replaces": "Temple",
-		"uniqueTo": "Israeli", 
-		"maintenance": 2,
-		"culture": 3,
+		"uniqueTo": "Israel", 
+		"faith": 2,
 		"happiness": 1,
-		"specialistSlots": {"Artist": 1},
-		"greatPersonPoints": {"culture": 1},
-		"cost": 138,
+		"gold": 2,
+		"cost": 120,
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 5},
-		"requiredBuilding": "Monument"
+		"requiredBuilding": "Shrine"
 		"requiredTech": "Theology"
 	},
 	{
@@ -227,25 +54,18 @@
 		"cost": 120,
 		"maintenance": 4,
 		"culture": 1,
-		"xpForNewUnits": 10,
-		"hurryCostModifier": 25,
-		"uniques": ["Remove extra unhappiness from annexed cities","10 XP for all units build in this city"],
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities","New [Military] units start with [10] Experience [in this city]"],
 		"requiredTech": "Construction"
-	},
-		{
-		"name": "Free Worker (Ability)",
-		"uniqueTo": "Epirus", 
-		"cost": -1,
-		"uniques": ["Unsellable","Can only be built in annexed cities","Will not be displayed in Civilopedia","Free [Worker] appears"],
 	},
 	{
 		"name": "Khachkar",
-		"replaces": "Monument",
-		"uniqueTo": "Armenian", 
-		"culture": 2,
+		"replaces": "Shrine",
+		"uniqueTo": "Armenia", 
+		"faith": 1,
 		"cost": 40,
 		"hurryCostModifier": 40,
-		"uniques": ["Increased rate of border expansion"]
+		"uniques": ["[+2 Faith] from [Mountain] tiles [in this city]"]
 	},
 		{
 		"name": "Slave Market",
@@ -253,16 +73,10 @@
 		"uniqueTo": "Macrobia",
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
+		"gold": 4,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["+[33]% production when building [Worker] in this city","[+2 Gold] from [Plantation] tiles in this city"]
+		"uniques": ["[+33]% Production when constructing [Worker] units [in this city]"],
 		"requiredTech": "Currency"
-	},
-		{
-		"name": "Macrobia Bonus",
-		"uniqueTo": "Macrobia", 
-		"cost": -1,
-		"percentStatBonus": {"gold":15, "culture":15},
-		"uniques": ["Can only be built in annexed cities","Will not be displayed in Civilopedia"],
 	},
 	    {
 		"name": "Smeltery",
@@ -271,6 +85,9 @@
         "maintenance": 1,
         "hurryCostModifier": 25,
         "requiredTech": "Iron Working",
-        "uniques": ["+[15]% production when building [land units] in this city", "+[15]% production when building [Spaceship part] in this city","Provides [2] [Iron]","[+1 Production] from [Iron] tiles in this city"]
+        "uniques": ["Provides [2] [Iron]","[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
     },
+	
 ]
