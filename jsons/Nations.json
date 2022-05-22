@@ -30,7 +30,7 @@
 		"innerColor": [189, 145, 158],
 		"uniqueName": "Cradle of Civilization",
 		"uniqueText": "All land units move twice as fast on tiles next to rivers. +2 Science in Capital",
-		"uniques": ["[+2 Science] [in capital]","[Land] units gain the [Cradle of Civilization] promotion"],
+		"uniques": ["[+2 Science] [in capital]","[Land] units gain the [Cradle of Civilizations] promotion"],
 		"cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
 			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
 			"Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
