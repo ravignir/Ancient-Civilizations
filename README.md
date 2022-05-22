@@ -8,3 +8,4 @@ v1.2g (07.12.20) - Added Olmec, Nok and Himyar
 v1.3g (20.12.20) - Added Epirus and Scythia, minor balance changes
 v1.31g (02.01.21) - Minor fixes
 v1.32g (11.01.21) - Balance changes
+v1.4 (22.05.22) - Bug Fixes and Overhaul some of the abilities
