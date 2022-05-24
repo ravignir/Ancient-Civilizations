@@ -75,7 +75,7 @@
 		"hurryCostModifier": 25,
 		"gold": 4,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+33]% Production when constructing [Worker] units [in this city]"],
+		"uniques": ["Free [Worker] appears"],
 		"requiredTech": "Currency"
 	},
 	    {
@@ -83,6 +83,7 @@
         "replaces": "Forge",
 		"uniqueTo": "Nok",
         "maintenance": 1,
+		"production": 1,
         "hurryCostModifier": 25,
         "requiredTech": "Iron Working",
         "uniques": ["Provides [2] [Iron]","[+15]% Production when constructing [Spaceship part] units [in this city]",

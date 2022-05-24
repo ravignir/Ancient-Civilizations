@@ -59,7 +59,7 @@
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Swordsman",
-		"uniques": ["Invisible to non-adjacent units","Earn [25]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["Invisible to non-adjacent units","Earn [25]% of killed [Military] unit's [Strength] as [Faith]","May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
 	},
 		{
@@ -73,7 +73,7 @@
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques": ["Ignores terrain cost"],
+		"uniques": ["Ignores terrain cost","May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -100,7 +100,7 @@
 		"strength": 6,
 		"cost": 40,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["1 additional attack per turn","May upgrade to [Composite Bowman] through ruins-like effects"],
+		"uniques": ["[1] additional attacks per turn","May upgrade to [Composite Bowman] through ruins-like effects"],
 		"promotions": ["Charge","Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
@@ -116,7 +116,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+15]% Strength bonus for [Sword] units within [2] tiles","Heals [25] damage if it kills a unit","[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"uniques": ["[+15]% Strength bonus for [Sword] units within [1] tiles","Heals [25] damage if it kills a unit","[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
 		"attackSound": "nonmetalhit"
 	},
 	{	
@@ -140,8 +140,8 @@
 		"uniqueTo": "Epirus",
 		"replaces": "Chariot Archer",
 		"movement": 3,
-		"strength": 6,
-		"rangedStrength": 8,
+		"strength": 7,
+		"rangedStrength": 9,
 		"cost": 70,
 		"requiredTech": "Trapping",
 		"upgradesTo": "Crossbowman",

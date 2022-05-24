@@ -14,7 +14,7 @@
 		    	{
 		"name": "Mount",
 		"prerequisites": ["Steppe Hunter"],
-		"uniques": ["Consumes [1] [Horses]","[+2] Movement","[+15]% Strength <when defending>"],
+		"uniques": ["[+2] Movement","[+15]% Strength <when defending>"],
 		"unitTypes": ["Archery"],
 	},  
 		    	{

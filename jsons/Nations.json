@@ -6,8 +6,8 @@
 		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Blessings of the heaven be upon you, oh mighty Gilgamesh, the legendary god-king of the Sumer nation. The stories of your life amaze the world to this day. After your death, the gods welcomed you as one of their kind. ",
+		"startIntroPart2": "O great Gilgamesh, builder of the Sumer might, your people seek your guidance! Will you descend from the heavens to astonish the world with your incredible deeds once again? Will you build a civilization that will stand the test of time? ",
 		
 		"declaringWar": "That's enough, prepare to be smashed into the dust!",
 		"attacked": "You dare to attack a demigod? You will regret this sooner than you think!",
@@ -66,7 +66,7 @@
 		"outerColor": [	255, 255, 204],
 		"innerColor": [	51, 153, 255],
 		"uniqueName": "Promised Land",
-		"uniques": ["[+1 Culture] from every [Pasture]","[+1 Food] from every [Pasture]","[+1 Faith] per [4] population [in all cities]"],
+		"uniques": ["[+1 Food, +1 Faith] from every [Pasture]","[+1 Faith] per [4] population [in all cities]"],
 		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
 			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
 			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
@@ -207,7 +207,7 @@
 		"innerColor": [	255, 255, 255],
 		"uniqueName": "Shackles of Gold",
 		"uniqueText": "Earns Gold for killing enemy Land units", 
-		"uniques": ["Earn [100]% of [Land] opponent's [Strength] as [Gold] for kills"],
+		"uniques": ["Earn [50]% of [Land] opponent's [Strength] as [Gold] for kills","[+1 Gold] from every [Mine]"],
 		"cities": ["Mogadishu","Avalite","Botiala","Gondal","Toniki","Salweyn","Miandi","Sarapion","Hannassa","Bulhar",
 		"Essina","Famo","Mosylon","Opone","Nikon","Mundus"]
 	},
@@ -241,7 +241,8 @@
 		"outerColor": [	91, 176, 156],
 		"innerColor": [ 40, 94, 68],
 		"uniqueName": "Feathered Serpent",
-		"uniques": ["[+3 Faith] from every [Great Improvement]"],
+		"uniqueText": "May buy National Wonders with Faith.",
+		"uniques": ["May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost"],
 		"cities": ["La Venta","San Lorenzo","Tres Zapotes","Izapa","Tzapotl","Tonala","Texpa","Tlapocoya","Xoc","Coatztitlan","Izacoya"]
 	},
 			{

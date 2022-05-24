@@ -11,20 +11,20 @@
 		{
 		"name": "Colossal Head",
 		"uniqueTo": "The Olmec",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland"],
+		"terrainsCanBeBuiltOn": ["Jungle","Forest"],
 		"faith": 1,
-		"turnsToBuild": 8,
+		"turnsToBuild": 6,
 		"techRequired": "Calendar",
-		"uniques": ["[+1 Culture] <after discovering [Archaeology]>","[+1 Science] for each adjacent [Jungle]"]
+		"uniques": ["[+1 Culture] <after discovering [Archaeology]>","[+2 Science] for each adjacent [Great Improvement]"]
 	},
 		{
 		"name": "Desert Plantation",
 		"uniqueTo": "Himyar",
 		"terrainsCanBeBuiltOn": ["Desert"],
-		"gold": 1,
+		"gold": 2,
 		"turnsToBuild": 6,
 		"techRequired": "Mathematics",
-		"uniques": ["Provides [1] [Incense]","Cannot be built on [Flood plains] tiles"]
+		"uniques": ["Cannot be built on [Luxury resource] tiles","Provides [1] [Incense]","[+1 Gold] <after discovering [Economics]>","Cannot be built on [Flood plains] tiles"]
 	},
 			{
 		"name": "Kurgan",
