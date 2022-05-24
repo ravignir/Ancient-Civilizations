@@ -207,7 +207,7 @@
 		"innerColor": [	255, 255, 255],
 		"uniqueName": "Shackles of Gold",
 		"uniqueText": "Earns Gold for killing enemy Land units", 
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Gold]","[+1 Gold] from every [Mine]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["Mogadishu","Avalite","Botiala","Gondal","Toniki","Salweyn","Miandi","Sarapion","Hannassa","Bulhar",
 		"Essina","Famo","Mosylon","Opone","Nikon","Mundus"]
 	},
