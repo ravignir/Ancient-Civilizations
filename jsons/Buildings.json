@@ -64,6 +64,7 @@
 		"uniqueTo": "Armenia", 
 		"faith": 1,
 		"cost": 40,
+		"requiredTech": "Pottery",
 		"hurryCostModifier": 40,
 		"uniques": ["[+2 Faith] from [Mountain] tiles [in this city]"]
 	},
