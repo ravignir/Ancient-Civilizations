@@ -10,14 +10,14 @@
         "uniqueTo": "Himyar",
         "cost": -1,
 	 "cannotBeBuiltWith": "Frankincense",
-	"uniques": ["Consumes [1] [Incense]","Provides [1] [Myrrh]","Unsellable","Will not be displayed in Civilopedia","Not displayed as an available construction without [Incense]"],
+	"uniques": ["Consumes [1] [Incense]","Provides [1] [Myrrh]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>"],
 	},
 			{
         "name": "Frankincense",
         "uniqueTo": "Himyar",
         "cost": -1,
 	 "cannotBeBuiltWith": "Myrrh",
-	"uniques": ["Consumes [1] [Incense]","Provides [1] [Frankincense]","Unsellable","Will not be displayed in Civilopedia","Not displayed as an available construction without [Incense]"],
+	"uniques": ["Consumes [1] [Incense]","Provides [1] [Frankincense]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>"],
 	},
 	{
 		"name": "Ziggurat",
