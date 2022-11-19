@@ -309,7 +309,7 @@
 		"outerColor": [	31, 31, 31],
 		"innerColor": [	247, 198, 0],
 		"uniqueName": "Desert Paradise",
-		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","+[15]% Strength if within [1] tiles of a [Desert]"],
+		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","[+15]% Strength <within [1] tiles of a [Desert]>"],
 		"cities": ["Zafar","Sana'a","Ma'rib","Najran","Mocha","Haram","Haywan","Mukhwan","Yabrin","Shabwa","Wa'lan","Libna","Nashaq","Timna","Sirwah","Quarnawu","Kaminahu","Baraqish"]
 	},
 				{
