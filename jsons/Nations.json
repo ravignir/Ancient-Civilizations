@@ -319,8 +319,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Pyrrhus of Epirus, your reign is a lesson in the realities of statesmanship steeped in political intrigue and conquest.",
+		"startIntroPart2": "Pyrrhus, your ambitions are without limit, can you harness your indomitable desire to rule with the need for constancy and stability?",
 		
 		"declaringWar": "There can be only one king. Prepare for battle!",
 		"attacked": "I think my emissary must have been late, I already declared war on you!",
