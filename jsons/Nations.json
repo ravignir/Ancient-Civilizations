@@ -149,8 +149,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Tigranes II The Great! The quivering dismay of neighboring lands as you annexed and grew your realm has earned you both respect and the notice of the powerful.",
+		"startIntroPart2": "Tigranes, King of Kings, your candle burns so very brightly, but can it endure the howling winds of war? ",
 		
 		"declaringWar": "You are a disgrace to this world and I shall end you!",
 		"attacked": "So that's how you treat others? We shall teach you a lesson.",
