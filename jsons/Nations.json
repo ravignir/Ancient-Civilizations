@@ -113,8 +113,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Mursillis the II, third born son of King Suppiluliuma I, you have risen above adversity and loss",
+		"startIntroPart2": "Upon gaining the throne, you were mocked by jeering enemy kings; but no more. All have fallen in battle before you leaving their kingdoms a hovel for jackals and mice now",
 		
 		"declaringWar": "Prepare to be torn apart!",
 		"attacked": "We would attack you anyway. You are just hastening your defeat",
