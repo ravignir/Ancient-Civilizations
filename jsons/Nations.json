@@ -43,8 +43,8 @@
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]","Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Solomon, Builder of the Great Temple, thou art a wise and wealthy king, and thy reign has brought prosperity and peace to your people",
+		"startIntroPart2": "All that thou hast wrought serve the cause of enemies who conspire against thee, Wise King. Prosperity will have a price beyond rubies.",
 		
 		"declaringWar": "The Lord demands justice!",
 		"attacked": "The Lord presented me your plans. We are prepared!",
