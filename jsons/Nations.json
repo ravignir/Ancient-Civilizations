@@ -353,8 +353,8 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "O' Great Unifier of Scythia, King Ateas! Though some have named you usurper; their words are lost in defeat and blood.",
+		"startIntroPart2": "King Ateas, can you seek further greatness of your long raign while still holding fast to what you have already gained?",
 		
 		"declaringWar": "I am afraid your reign is over!",
 		"attacked": "We will sunk you in your own blood.",
