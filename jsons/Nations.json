@@ -78,8 +78,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "King Hiram I, Son of Abibaal, thou hast guided your ambitions well through the troubled times and reaped the great rewards of of a wealthy empire.",
-		"startIntroPart2": "King Hiram, your reign is marked by your cunning perserverence for harvesting golden opportunities from harsh calamities, may this continue to be so!",
+		"startIntroPart1": "King Hiram I, Son of Abibaal, thou hast guided your ambitions so well through the troubled times and reaped the great rewards of a wealthy empire.",
+		"startIntroPart2": "King Hiram, your reign is marked by a cunning perserverence to seize golden opportunities from harsh calamities, may this continue to be so!",
 		
 		"declaringWar": "We accept you for no longer!",
 		"attacked": "I am disappointed. Can't we simply trade and avoid the conflict?",
@@ -286,8 +286,8 @@
 		"startBias": ["Desert","Incense"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Lawful King Charibael, Blessed by God, your rule is both just and good but tempered with blood and iron.",
-		"startIntroPart2": "King Charibael of Himyarite, your great trading empire has been carved out of fractious land, and has gained you powerful friends and jealous enemies.",
+		"startIntroPart1": "Lawful King Charibael, Blessed by God, your rule is both just and good but necessarily tempered with blood and iron.",
+		"startIntroPart2": "King Charibael of Himyarite, a great trading empire has been carved out of a fractious land, but has gained you powerful friends and jealous enemies.",
 		
 		"declaringWar": "You are an obstacle and you shall be removed!",
 		"attacked": "Disappointing...",
@@ -353,8 +353,8 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "O' Great Unifier of Scythia, King Ateas! Though some had named you a usurper; their words are lost in defeat and blood.",
-		"startIntroPart2": "King Ateas, can you seek further greatness of your long raign while still holding together what you have already gained?",
+		"startIntroPart1": "O' Great Unifier of Scythia, King Ateas! Though some had named you usurper; their words are lost in the din defeat and death.",
+		"startIntroPart2": "King Ateas, can you seek still further glories while still holding together what you have already gained?",
 		
 		"declaringWar": "I am afraid your reign is over!",
 		"attacked": "We will sunk you in your own blood.",
