@@ -113,8 +113,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Mursillis the II, third born son of King Suppiluliuma I, you have risen above adversity and loss",
-		"startIntroPart2": "King Mursillis II, when you ascended the Throne of Hatti, your jeering rivals mocked you; now those enemies are fallen to wrack and ruin, their kingdoms an abode for jackals and mice",
+		"startIntroPart1": "Mursillis the II, third born son of King Suppiluliuma I, you have risen above adversity and grievous loss.",
+		"startIntroPart2": "Mighty Conqueror, King Mursillis II, when you youthfully ascended the Throne of Hatti, your jeering rivals mocked you; now those enemies are fallen to wrack and ruin, their halls an abode for the jackal and mouse.",
 		
 		"declaringWar": "Prepare to be torn apart!",
 		"attacked": "We would attack you anyway. You are just hastening your defeat",
@@ -149,7 +149,7 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Tigranes II The Great! The quivering dismay of neighboring lands as you annexed and grew your realm has earned you both respect and the notice of the powerful.",
+		"startIntroPart1": "Tigranes II The Great! The quivering dismay of neighboring lands as you annexed and grew your realm have earned you both respect and the notice of the powerful.",
 		"startIntroPart2": "Tigranes, King of Kings, your candle burns so very brightly, but can it endure the howling winds of war? ",
 		
 		"declaringWar": "You are a disgrace to this world and I shall end you!",
@@ -184,7 +184,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Sayid, Great Chieftain of Warriors, your strength and ferocity are legendary in faraway lands.",
-		"startIntroPart2": "Chief Sayid, your unyielding might and martial skills are both without question, but have you the ability to adapt to a changing world as well?",
+		"startIntroPart2": "Chief Sayid, your unyielding might and martial skills are both without question, but have you also the ability to adapt to a changing world as well?",
 		
 		"declaringWar": "You have had your chance, now prepare for war!",
 		"attacked": "You DARE declare war on us? We shall make you suffer!",
@@ -253,7 +253,7 @@
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Chief of the Nok, you strive to guide your industrious people to reap the benefits of trade and prosperous security.",
-		"startIntroPart2": "Olori! You know that this harsh world is fraught with danger, can you build an empire to withstand the ravages?",
+		"startIntroPart2": "Olori! You know this harsh world is fraught with danger, can you build an empire to withstand the ravages that shall surely come?",
 		
 		"declaringWar": "You must be destroyed!",
 		"attacked": "Oh, I see. I did not expect anything else from you.",
@@ -353,8 +353,8 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "O' Great Unifier of Scythia, King Ateas! Though some had named you usurper; their words are lost in the din defeat and death.",
-		"startIntroPart2": "King Ateas, can you seek still further glories while yet holding fast to what you have already gained?",
+		"startIntroPart1": "O' Great Unifier of Scythia, King Ateas! Though some had named you usurper; their words are lost in the tumult of defeat and despair.",
+		"startIntroPart2": "King Ateas, can you win even greater glories while yet holding fast to what you have already gained?",
 		
 		"declaringWar": "I am afraid your reign is over!",
 		"attacked": "We will sunk you in your own blood.",
