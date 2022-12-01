@@ -183,8 +183,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Sayid, Great Chieftain of Warriors, your strenght and ferocity is legendary",
-		"startIntroPart2": "Chief Sayid, your unyielding might and skill in battle is without question, but an empire demands both strength and the means to adapt.",
+		"startIntroPart1": "Sayid, Great Chieftain of Warriors, your strength and ferocity are legendary in faraway lands.",
+		"startIntroPart2": "Chief Sayid, your unyielding might and martial skills are both without question, but have you the ability to adapt to a changing world as well?",
 		
 		"declaringWar": "You have had your chance, now prepare for war!",
 		"attacked": "You DARE declare war on us? We shall make you suffer!",
@@ -218,8 +218,8 @@
 		"startBias": ["Jungle","Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "U Kix Chan; King of the Olmecs, the teeming jungle and the passing of the ages ever seeks to obsure your legacy.",
-		"startIntroPart2": "King U Kix Chan, the encroaching world must once again be tamed and subjugated under your masterful reign.",
+		"startIntroPart1": "U Kix Chan; King of the Olmecs, the teeming jungle along with the ages ever seek to obsure your legacy.",
+		"startIntroPart2": "Yes, King U Kix Chan, the encroaching world must once again be tamed under your masterful reign.",
 		
 		"declaringWar": "War! The Feathered Serpent demands sacrificial blood!",
 		"attacked": "Is it bravery or stupidity?",
@@ -252,8 +252,8 @@
 		"startBias": ["Jungle","Iron"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Chief of the Nok, you strive to bring your industrious people the benefits of trade and prosperous security.",
-		"startIntroPart2": "Olori! The harsh world is fraught with danger, can you strengthen your people's homeland to withstand the ravages of time?",
+		"startIntroPart1": "Chief of the Nok, you strive to guide your industrious people to reap the benefits of trade and prosperous security.",
+		"startIntroPart2": "Olori! You know that this harsh world is fraught with danger, can you build an empire to withstand the ravages?",
 		
 		"declaringWar": "You must be destroyed!",
 		"attacked": "Oh, I see. I did not expect anything else from you.",
@@ -287,7 +287,7 @@
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Lawful King Charibael, Blessed by God, your rule is both just and good but necessarily tempered with blood and iron.",
-		"startIntroPart2": "King Charibael of Himyarite, a great trading empire has been carved out of a fractious land, but has gained you powerful friends and jealous enemies.",
+		"startIntroPart2": "King Charibael of Himyarites, you have carved out an empire from a fractious land, and have gained powerful friends and many jealous enemies.",
 		
 		"declaringWar": "You are an obstacle and you shall be removed!",
 		"attacked": "Disappointing...",
@@ -354,7 +354,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "O' Great Unifier of Scythia, King Ateas! Though some had named you usurper; their words are lost in the din defeat and death.",
-		"startIntroPart2": "King Ateas, can you seek still further glories while still holding together what you have already gained?",
+		"startIntroPart2": "King Ateas, can you seek still further glories while yet holding fast to what you have already gained?",
 		
 		"declaringWar": "I am afraid your reign is over!",
 		"attacked": "We will sunk you in your own blood.",
