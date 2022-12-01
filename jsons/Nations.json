@@ -183,8 +183,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Sayid, Great Chieftain of Warriors, your strenght and ferocity is legendary",
+		"startIntroPart2": "Chief Sayid, your unyielding might and skill in battle is without question, but an empire demands both strength and the means to adapt.",
 		
 		"declaringWar": "You have had your chance, now prepare for war!",
 		"attacked": "You DARE declare war on us? We shall make you suffer!",
