@@ -43,8 +43,8 @@
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]","Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Solomon, Builder of the Great Temple, thou art a wise and wealthy king. Thy reign has brought prosperity and peace to your people",
-		"startIntroPart2": "Wise King, all thy works are in peril due to betrayal and hatred of those who have risen up against thee. Prosperity has a price beyond rubies.",
+		"startIntroPart1": "Solomon, Builder of the Great Temple, thou art a wise and wealthy king. Thy reign has brought prosperity and peace to your people.",
+		"startIntroPart2": "Wise King, all thy works stand in peril from the betrayals and hatreds of those who rise up against thee. Prosperity has a price beyond rubies.",
 		
 		"declaringWar": "The Lord demands justice!",
 		"attacked": "The Lord presented me your plans. We are prepared!",
@@ -78,8 +78,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "King Hiram I, Son of Abibaal, thou hast guided your ambitions well through the troubled times and reaped the great rewards of of a wealthy empire",
-		"startIntroPart2": "King Hiram, your reign is marked by your cunning perserverence for harvesting golden opportunities from harsh calamities, may this continue to be so",
+		"startIntroPart1": "King Hiram I, Son of Abibaal, thou hast guided your ambitions well through the troubled times and reaped the great rewards of of a wealthy empire.",
+		"startIntroPart2": "King Hiram, your reign is marked by your cunning perserverence for harvesting golden opportunities from harsh calamities, may this continue to be so!",
 		
 		"declaringWar": "We accept you for no longer!",
 		"attacked": "I am disappointed. Can't we simply trade and avoid the conflict?",
@@ -286,7 +286,7 @@
 		"startBias": ["Desert","Incense"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Lawful King Charibael, Blessed by God, your rule is both just and good but tempered with blood and iron ",
+		"startIntroPart1": "Lawful King Charibael, Blessed by God, your rule is both just and good but tempered with blood and iron.",
 		"startIntroPart2": "King Charibael of Himyarite, your great trading empire has been carved out of fractious land, and has gained you powerful friends and jealous enemies.",
 		
 		"declaringWar": "You are an obstacle and you shall be removed!",
@@ -320,7 +320,7 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Pyrrhus of Epirus, your reign is a lesson in the realities of statesmanship steeped in political intrigue and conquest.",
-		"startIntroPart2": "Pyrrhus, your ambitions are without limit, can you harness your indomitable desire to rule with the need for constancy and stability?",
+		"startIntroPart2": "King Pyrrhus, your ambitions are without limit, can you harness your indomitable desire to rule with the need for constancy and stability?",
 		
 		"declaringWar": "There can be only one king. Prepare for battle!",
 		"attacked": "I think my emissary must have been late, I already declared war on you!",
