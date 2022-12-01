@@ -219,7 +219,7 @@
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "U Kix Chan; King of the Olmecs, the teeming jungle and the passing of the ages ever seeks to obsure your legacy.",
-		"startIntroPart2": "King U Kix Chan; the encroaching world must once again be tamed and subjugated under your masterful reign.",
+		"startIntroPart2": "King U Kix Chan, the encroaching world must once again be tamed and subjugated under your masterful reign.",
 		
 		"declaringWar": "War! The Feathered Serpent demands sacrificial blood!",
 		"attacked": "Is it bravery or stupidity?",
@@ -252,8 +252,8 @@
 		"startBias": ["Jungle","Iron"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Chief of the Nok, you strive to bring your industrious people the benefits of trade and prosperous security.",
+		"startIntroPart2": "Olori! The harsh world is fraught with danger, can you strengthen your people's homeland to withstand the ravages of time?",
 		
 		"declaringWar": "You must be destroyed!",
 		"attacked": "Oh, I see. I did not expect anything else from you.",
@@ -286,8 +286,8 @@
 		"startBias": ["Desert","Incense"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Lawful King Charibael, Blessed by God, your rule is both just and good but tempered with blood and iron ",
+		"startIntroPart2": "King Charibael of Himyarite, your great trading empire has been carved out of fractious land, and has gained you powerful friends and jealous enemies.",
 		
 		"declaringWar": "You are an obstacle and you shall be removed!",
 		"attacked": "Disappointing...",
