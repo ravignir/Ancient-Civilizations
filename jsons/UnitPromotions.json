@@ -1,32 +1,24 @@
-[
-	    	{
-		"name": "Mine",
-		"uniques": ["Can construct [Mine]"],
-	},  
-	{
-		"name": "Cradle of Civilizations",
-		"uniques": ["Double movement in [River]"],
-	},  
-		    	{
-		"name": "Steppe Hunter",
-		"uniques": ["Can receive bonus movement promotion"],
-	},  
-		    	{
-		"name": "Mount",
-		"prerequisites": ["Steppe Hunter"],
-		"uniques": ["[+2] Movement","[+15]% Strength <when defending>"],
-		"unitTypes": ["Archery"],
-	},  
-		    	{
-		"name": "Pyrrhic Victory",
-		"uniques": ["[+40]% Strength <when attacking>","[-20]% Strength <when defending>"],
-	},  
-	{
-		"name": "Favorable Winds",
-		"uniques": ["Can move after attacking"]
+[ 
+    {
+        "name": "Cradle of Civilizations",
+        "uniques": ["Double movement in [River]"],
 	},
-	{
-		"name": "Outpost",
-		"uniques": ["Can construct [Outpost]"]
-	},	
+    {
+        "name": "Steppe Hunter",
+        "uniques": ["Can receive bonus movement promotion"],
+	},
+    {
+        "name": "Horseback Rider",
+        "prerequisites": ["Steppe Hunter"],
+        "uniques": ["[+2] Movement"],
+        "unitTypes": ["Archery"],
+	},
+    {
+        "name": "Pyrrhic Victory",
+        "uniques": ["[+25]% Strength <vs cities> <when attacking>","[-25]% Strength <vs cities> <when defending>"],
+	},
+    {
+        "name": "Favorable Winds",
+        "uniques": ["Can move after attacking"]
+    },	
 ]

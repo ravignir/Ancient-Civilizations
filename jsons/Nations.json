@@ -29,7 +29,7 @@
 		"outerColor": [43, 35, 82],
 		"innerColor": [189, 145, 158],
 		"uniqueName": "Cradle of Civilization",
-		"uniqueText": "All land units move twice as fast on tiles next to rivers. +2 Science in Capital",
+		"uniqueText": "All land units move twice as fast on tiles next to rivers. +2 [Science] in Capital",
 		"uniques": ["[+2 Science] [in capital]","[Land] units gain the [Cradle of Civilizations] promotion"],
 		"cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
 			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
@@ -136,7 +136,7 @@
 		"outerColor": [	172, 142, 97],
 		"innerColor": [	71, 6, 23],
 		"uniqueName": "Iron Pioneers",
-		"uniqueText": "Iron and Horses tiles yield additional 1 Gold and 1 Production. Receive +10% Production bonus when constructing military units.",
+		"uniqueText": "Iron and Horses tiles yield additional 1 [Gold] and 1 [Production]. Receive +10% [Production] bonus when constructing military units.",
 		"uniques": ["[+10]% Production when constructing [Military] units [in all cities]","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]","[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]"],
 		"cities": ["Hattusa","Nesa","Kussara","Samuha","Tarhuntassa","Kadesh","Lusna","Alalah","Halab","Tunip","Kadesh",
 			"Zalpa","Hakpish","Nerik","Shallapsa","Arinna","Adaniya","Apasha","Waliwanda","Tapikka","Tuwanuwa",
@@ -206,8 +206,8 @@
 		"outerColor": [	84, 215, 247],
 		"innerColor": [	255, 255, 255],
 		"uniqueName": "Shackles of Gold",
-		"uniqueText": "Earns Gold for killing enemy Land units", 
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
+		"uniqueText": "Earns [Gold] for killing enemy land units", 
+		"uniques": ["Earn [75]% of killed [Land] unit's [Strength] as [Gold]"],
 		"cities": ["Mogadishu","Avalite","Botiala","Gondal","Toniki","Salweyn","Miandi","Sarapion","Hannassa","Bulhar",
 		"Essina","Famo","Mosylon","Opone","Nikon","Mundus"]
 	},
@@ -241,7 +241,7 @@
 		"outerColor": [	91, 176, 156],
 		"innerColor": [ 40, 94, 68],
 		"uniqueName": "Feathered Serpent",
-		"uniqueText": "May buy National Wonders with Faith.",
+		"uniqueText": "May buy National Wonders with [Faith].",
 		"uniques": ["May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost"],
 		"cities": ["La Venta","San Lorenzo","Tres Zapotes","Izapa","Tzapotl","Tonala","Texpa","Tlapocoya","Xoc","Coatztitlan","Izacoya"]
 	},
@@ -275,8 +275,8 @@
 		"outerColor": [	189, 182, 125],
 		"innerColor": [	82, 70, 55],
 		"uniqueName": "African Treasures",
-		"uniqueText": "All cities provide 1 copy of Terracotta luxury resource. +1 Science from every Iron. Workers may be expended to instantly create Mine improvement regardless of base terrain",
-		"uniques": ["Gain a free [Free Terracotta] [in all cities]","[+1 Science] from every [Iron]","[Worker] units gain the [Mine] promotion"],
+		"uniqueText": "All cities provide 1 copy of [Terracotta] luxury resource. +1 [Science] from every Iron.",
+		"uniques": ["Gain a free [Free Terracotta] [in all cities]","[+1 Science] from every [Iron]"],
 		"cities": ["Nok","Jos","Ife","Samun","Kagara","Janjala","Kwoi","Jere","Dokku","Bokkos","Riyom","Ogbabu","Pangajere","Taruga","Kamrun","Vom","Chakwama","Dogo-Dogo","Jagwa"]
 	},
 			{
@@ -316,7 +316,6 @@
 		"name": "Epirus",
 		"leaderName": "Pyrrhus",
 		"adjective": ["Epirote"],
-		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
@@ -342,8 +341,8 @@
 		"innerColor": [	232, 170, 158],
 		"outerColor": [	94, 50, 0],
 		"uniqueName": "Pyrrhic Victory",
-		"uniqueText": "Can't train Settlers. All military units have + 40% more strength when attacking, but suffer -20% penalty when defending. +25% Production when constructing military units in capital. Workers may be expended to create Outpost improvement.",
-		"uniques": ["Cannot build [Settler] units","[Worker] units gain the [Outpost] promotion", "[Military] units gain the [Pyrrhic Victory] promotion","[+25]% Production when constructing [Military] units [in capital]"],
+		"uniqueText": "Can't train Settlers. All military units have + 25% more strength when attacking cities, but suffer -25% penalty when defending against cities. +25% [Production] when constructing military units in capital. Gains a free [Great General] upon researching Bronze Working and Steel",
+		"uniques": ["Cannot build [Settler] units", "[Military] units gain the [Pyrrhic Victory] promotion","[+25]% Production when constructing [Military] units [in capital]","Receive free [Great General] when you discover [Bronze Working]","Receive free [Great General] when you discover [Steel]"],
 		"cities": ["Ambracia","Phoenike","Passaron"]
 	},
 					{

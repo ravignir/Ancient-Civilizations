@@ -10,14 +10,14 @@
         "uniqueTo": "Himyar",
         "cost": -1,
 	 "cannotBeBuiltWith": "Frankincense",
-	"uniques": ["Consumes [1] [Incense]","Provides [1] [Myrrh]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>"],
+	"uniques": ["Consumes [1] [Incense]","Provides [1] [Myrrh]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>","Destroyed when the city is captured"],
 	},
 			{
         "name": "Frankincense",
         "uniqueTo": "Himyar",
         "cost": -1,
 	 "cannotBeBuiltWith": "Myrrh",
-	"uniques": ["Consumes [1] [Incense]","Provides [1] [Frankincense]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>"],
+	"uniques": ["Consumes [1] [Incense]","Provides [1] [Frankincense]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>","Destroyed when the city is captured"],
 	},
 	{
 		"name": "Ziggurat",
@@ -91,5 +91,4 @@
 			"[+15]% Production when constructing [Land] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]"]
     },
-	
 ]

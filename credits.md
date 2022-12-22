@@ -76,6 +76,9 @@ By Bakunetsu Kaito
 Horse https://thenounproject.com/term/horse/183940
 By Arthur Bauer
 
+Elephant https://thenounproject.com/icon/elephant-446974/
+By Pranav Grover
+
 Flag https://thenounproject.com/term/flag/1423998
 By Kangrif
 
