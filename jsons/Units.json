@@ -28,8 +28,8 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"promotions": ["Shock I","Cover I"],
-		"uniques": ["No defensive terrain bonus","Consumes [1] [Horses]","[+25]% Strength <vs [Sword] units>","Rough terrain penalty","[-25]% Strength <vs cities>"],
+		"promotions": ["Shock I"],
+		"uniques": ["No defensive terrain bonus","Consumes [1] [Horses]","[+25]% Strength <vs [Sword] units>","Rough terrain penalty","[-33]% Strength <vs cities>"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
