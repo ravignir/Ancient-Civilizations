@@ -6,8 +6,8 @@
 		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Blessings of the heaven be upon you, oh mighty Gilgamesh, the legendary god-king of the Sumer nation. The stories of your life amaze the world to this day. After your death, the gods welcomed you as one of their kind. ",
-		"startIntroPart2": "O great Gilgamesh, builder of the Sumer might, your people seek your guidance! Will you descend from the heavens to astonish the world with your incredible deeds once again? Will you build a civilization that will stand the test of time? ",
+		"startIntroPart1": "Neverending glory be upon you, king Gilgamesh, most legendary and mystical ruler of Sumeria, whose hands built the city-walls of Uruk and saw the sage Utnapishtim! You are the leader of the Sumer, the first and the only civilization that was truely original and innovative. Sumer's history stretches back into time when the Gods were walking alongside mere mortals. The stories of your life amaze the world to this day, and after your death, the gods themselves welcomed you as one of their kind. You nation had a magnificent story as well: as the cradle of civilization, it made a great progress in history, giving the world beautiful things such as literature, architecture and music. Sumer's contribution to humankind are uncountable, and worthy of legends.",
+		"startIntroPart2": "Divine King, who, with strenght and wishdom, built the glory of ancient Sumer and became the very first hero of the history - your people seek for your guidance! The wealth of Euphrates, Tigris and the whole Fertile Crescent cannot be wasted in the hands of barbarians. Will you descend from the heavens to astonish the world with your incredible deeds once again? Can you once more bring glory and light to humankind? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "That's enough, prepare to be smashed into the dust!",
 		"attacked": "You dare to attack a demigod? You will regret this sooner than you think!",
@@ -78,7 +78,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Hiram I for Tyre, truly the Gods have blessed Phoenicia with your wise leadership. Phoenicia was once a prosperous land, situated on the coasts of the Fertile Crescent. Here your people founded a great civilization, one whose influence is striking. The Phoenicians invented the Bireme and profited and thrived on the trade of glass, cedars and Tyrian dye. They expanded their dominions, founding great cities such as magnificent Carthage on distant shores, and developed their own alphabet, a writing system on which almost all modern scripts are based. Through these achievements, Phoenicia has left a legacy yet unmatched by all the civilizations that followed.",
+		"startIntroPart1": "Hiram I of Tyre, truly the Gods have blessed Phoenicia with your wise leadership. Phoenicia was once a prosperous land, situated on the coasts of the Fertile Crescent. Here your people founded a great civilization, one whose influence is striking. The Phoenicians invented the Bireme and profited and thrived on the trade of glass, cedars and Tyrian dye. They expanded their dominions, founding great cities such as magnificent Carthage on distant shores, and developed their own alphabet, a writing system on which almost all modern scripts are based. Through these achievements, even after being conquered numerous times, Phoenicia has left a legacy yet unmatched by all the civilizations that followed.",
 		"startIntroPart2": "King Hiram, the dawn of a new age approaches. Can your guidance return Phoenicia to prosperity? Will you share to the world the wealth and wisdom of Phoenicia? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "We accept you for no longer!",
@@ -113,8 +113,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We bow before thee, King Mursili II, son of Suppiluliuma I, one of the most powerful rulers of the Hittite Empire! You had prove to be more than a match for your successful father, in your military deeds and diplomacy. Compared to the other great kingdoms of the Middle East, little is known of Hatti, yet its empire was one of the great powers of Mesopotamia, rivaling Babylon and Egypt in military strenght and influence. The first Hittites probably came from somewhere in the Caucasus or modern Russia, but settled in central Turkey and later in Syria, areas whose plentiful natural resources, particularly metals, would prove crucial to the power of Hatti. Early Hittite kings focused on consolidating their power in the region, but soon became more and more ambitious, opting to strike out and execute audacious raids against even mighty Babylon: it ended with great success, and the Hittites were able to undermine and destroy the ruling Amorite dynasty in Babylon.",
-		"startIntroPart2": "Great Mursili II, the time has come to prepare your sword and spirit. Great opportunities, challenges and dangers are waiting for you. The new world valus not only bravery, but also wisdome. Will you show that you lack none? Will you crush your enemies under the chariot and submit your rivals under the treaty? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "We bow before thee, King Mursili II, one of the most powerful rulers of the Hittite Empire! You had proven to be more than a match for your successful father Suppiluliuma I, in your military deeds and diplomacy. Compared to the other great kingdoms of the Middle East, little is known of Hatti, yet its empire was one of the great powers of Mesopotamia, rivaling Babylon and Egypt in military strenght and influence. The first Hittites probably came from somewhere in the Caucasus or modern Russia, but settled in central Turkey and later in Syria, areas whose plentiful natural resources, particularly metals, would prove crucial to the power of Hatti. Early Hittite kings focused on consolidating their power in the region, but soon became more and more ambitious, opting to strike out and execute audacious raids against even mighty Babylon: it ended with great success, and the Hittites undermined and destroyed the ruling Amorite dynasty.",
+		"startIntroPart2": "Great Mursili II, the time has come to prepare your sword and spirit. The new world values not only bravery, but also wisdom. Will you show that you lack none? Will you crush your enemies under the chariot and submit your rivals under the treaty? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Prepare to be torn apart!",
 		"attacked": "We would attack you anyway. You are just hastening your defeat",
@@ -149,8 +149,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Great Tigranes, King of Kings, you tower over the lands of Greater Armenia. IT was under your rule that Armenia's ancient dynasties would finally be put to hell and, at your command, would give rise to a powerful kingdom like no other. So great was Armenia's strenght that no army could overcome it. From Rome to Parthia, neighbouring empire trembled in fear. It is upon your example that future Armenian kings would look in both awe and envy.",
-		"startIntroPart2": "Mighty Tigranes Magnus, Armenis is faced once again with great foes. These are the greatest empires of the world, and Armenia stands at their cross-roads. Can you lead the defense of your realm? Can you unite your bickering nobles to ensure Armenia remains free and strong? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Great Tigranes, King of Kings, you tower over the lands of Greater Armenia. It was under your rule that Armenia's ancient dynasties would finally be put to hell and, at your command, would give rise to a powerful kingdom like no other. So great was Armenia's strenght that no army could overcome it, and, from Rome to Parthia, neighbouring empires trembled in fear. It is upon your example that future Armenian kings would look in both awe and envy.",
+		"startIntroPart2": "Mighty Tigranes Magnus, Armenia is faced once again with great foes. These are the greatest empires of the world, and Armenia stands at their cross-roads. Can you lead the defense of your realm? Can you unite your bickering nobles to ensure Armenia remains free and strong? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You are a disgrace to this world and I shall end you!",
 		"attacked": "So that's how you treat others? We shall teach you a lesson.",
@@ -218,8 +218,8 @@
 		"startBias": ["Jungle","Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Oh mighty and righteous U Kix Chan, King of Palenque and son of the Lady White Quetzal, your people prostrate themselves in awe and reverence! A skilled and ingenious people, the Olmec emerged along the Coatzacoalcos river basin in what is today the southern Mexican Gulf Coast. Quick to exploit the natural wonders of their surroundings, they developed new technologies - boiling rubber from tree sap - and carved colossal monuments from the basalt boulders of the Tuxtlas Mountains. From this cradle , Mesoamerican civilization would flourish. As the Maya would rise in the Yucatan to the east and the Aztecs in the Valley of Mexico to the west, the true legacy of the Olmec would be the indelible mark left on these great empires to come.",
-		"startIntroPart2": "Ancient King, history has not been king to your land. Foreign crowns have crossed the sea to kill your children and ravage their civilizations. The people of Mesoamerica now pray to their ancestors for guidance. Will you return to restore the glory of your culture and legacy? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Oh mighty and righteous U Kix Chan, King of Palenque and son of the Lady White Quetzal, your people prostrate themselves in awe and reverence! A skilled and ingenious people, the Olmec emerged along the Coatzacoalcos river basin in what is today the southern Mexican Gulf Coast. Quick to exploit the natural wonders of their surroundings, they developed new technologies - boiling rubber from tree sap - and carved colossal monuments from the basalt boulders of the Tuxtlas Mountains. From this cradle, Mesoamerican civilization would flourish: as the Maya would rise in the Yucatan to the east and the Aztecs in the Valley of Mexico to the west, the true legacy of the Olmec would be the indelible mark left on these great empires to come.",
+		"startIntroPart2": "Ancient King, history has not been kind to your land. Foreign crowns have crossed the sea to kill your children and ravage their civilizations. The people of Mesoamerica now pray to their ancestors for guidance. Will you return to restore the glory of your culture and legacy? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "War! The Feathered Serpent demands sacrificial blood!",
 		"attacked": "Is it bravery or stupidity?",
@@ -352,8 +352,8 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "We fall down before you, great and wise Ateas, the most powerful king of Scythia, the fatherland of horsemen! The Scythians were an ancient Iranic people of horse-riding, nomadic pastors who, throughout classical antiquity, dominated the Pontic-Caspian steppe. Around 676 BCE, the Scythians allied with the Mannaens and attacked mighty Assyria. In 512 BCE, when King Darius the Great of Persia attacked the Scythians, he allegedly penetrated into their land after crossing the Danube. Scythians succeeded in frustrating the designs of the Persian army by letting it march through the entire country without an engagement. With this great legacy behind you, you united the Scythian tribes, creating an entity powerful enough to threaten the Gree-Macedonian overlords of the Balkans.",
+		"startIntroPart2": "King Atheas, the world is new once again, and there is so much more glory to be won than the paltry, ambitionless raids your people once carried out! Will you reunite all horsemen under one flag? Will you lead the raids deep into the lands of your many opponents? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I am afraid your reign is over!",
 		"attacked": "We will sunk you in your own blood.",
