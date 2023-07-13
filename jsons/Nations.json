@@ -29,7 +29,7 @@
 		"outerColor": [43, 35, 82],
 		"innerColor": [189, 145, 158],
 		"uniqueName": "Cradle of Civilization",
-		"uniqueText": "All land units move twice as fast on tiles next to rivers. +2 Science in Capital",
+		"uniqueText": "All land units move twice as fast on tiles next to rivers. +2 [Science] in Capital",
 		"uniques": ["[+2 Science] [in capital]","[Land] units gain the [Cradle of Civilizations] promotion"],
 		"cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
 			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
@@ -43,8 +43,8 @@
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]","Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Great and wise Solomon, King of Israel and son of David. You were the leader of the Jewish people, ruling over a shortlived kingdom in the Promised Land, before your people would once again become wanders. Yet Babylon has fallen, Alexander ended the rules of Persians, Rome grew in power and fell, the crusaders were defeated, and still your people has survived. The Jewish people have shown the world a strenght of culture and tradition, their religion and beliefs standing strong against the many who sought to destroy them. After three thousands years, your nation has proven to be one of the most tenacious in history, carving out a place for themselves like the rain wears away at the rock.",
+		"startIntroPart2": "King Solomon, the time has come to reign once again. Shall you build great temples and bring peace to your people? Will your divine wisdom carve ought an empire of art and learning? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "The Lord demands justice!",
 		"attacked": "The Lord presented me your plans. We are prepared!",
@@ -78,13 +78,13 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Hiram I for Tyre, truly the Gods have blessed Phoenicia with your wise leadership. Phoenicia was once a prosperous land, situated on the coasts of the Fertile Crescent. Here your people founded a great civilization, one whose influence is striking. The Phoenicians invented the Bireme and profited and thrived on the trade of glass, cedars and Tyrian dye. They expanded their dominions, founding great cities such as magnificent Carthage on distant shores, and developed their own alphabet, a writing system on which almost all modern scripts are based. Through these achievements, Phoenicia has left a legacy yet unmatched by all the civilizations that followed.",
+		"startIntroPart2": "King Hiram, the dawn of a new age approaches. Can your guidance return Phoenicia to prosperity? Will you share to the world the wealth and wisdom of Phoenicia? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "We accept you for no longer!",
 		"attacked": "I am disappointed. Can't we simply trade and avoid the conflict?",
-		"defeated":  "Yes, take my lands. I doubt you will make any better use of them!",
-		"introduction":  "I am Hiram of Tyre. If you are here to trade, let's go straight into business.",
+		"defeated": "Yes, take my lands. I doubt you will make any better use of them!",
+		"introduction": "I am Hiram of Tyre. If you are here to trade, let's go straight into business.",
 		
 		"neutralHello": "Hello, friend.",
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
@@ -113,8 +113,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "We bow before thee, King Mursili II, son of Suppiluliuma I, one of the most powerful rulers of the Hittite Empire! You had prove to be more than a match for your successful father, in your military deeds and diplomacy. Compared to the other great kingdoms of the Middle East, little is known of Hatti, yet its empire was one of the great powers of Mesopotamia, rivaling Babylon and Egypt in military strenght and influence. The first Hittites probably came from somewhere in the Caucasus or modern Russia, but settled in central Turkey and later in Syria, areas whose plentiful natural resources, particularly metals, would prove crucial to the power of Hatti. Early Hittite kings focused on consolidating their power in the region, but soon became more and more ambitious, opting to strike out and execute audacious raids against even mighty Babylon: it ended with great success, and the Hittites were able to undermine and destroy the ruling Amorite dynasty in Babylon.",
+		"startIntroPart2": "Great Mursili II, the time has come to prepare your sword and spirit. Great opportunities, challenges and dangers are waiting for you. The new world valus not only bravery, but also wisdome. Will you show that you lack none? Will you crush your enemies under the chariot and submit your rivals under the treaty? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Prepare to be torn apart!",
 		"attacked": "We would attack you anyway. You are just hastening your defeat",
@@ -136,7 +136,7 @@
 		"outerColor": [	172, 142, 97],
 		"innerColor": [	71, 6, 23],
 		"uniqueName": "Iron Pioneers",
-		"uniqueText": "Iron and Horses tiles yield additional 1 Gold and 1 Production. Receive +10% Production bonus when constructing military units.",
+		"uniqueText": "Iron and Horses tiles yield additional 1 [Gold] and 1 [Production]. Receive +10% [Production] bonus when constructing military units.",
 		"uniques": ["[+10]% Production when constructing [Military] units [in all cities]","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]","[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]"],
 		"cities": ["Hattusa","Nesa","Kussara","Samuha","Tarhuntassa","Kadesh","Lusna","Alalah","Halab","Tunip","Kadesh",
 			"Zalpa","Hakpish","Nerik","Shallapsa","Arinna","Adaniya","Apasha","Waliwanda","Tapikka","Tuwanuwa",
@@ -149,8 +149,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Great Tigranes, King of Kings, you tower over the lands of Greater Armenia. IT was under your rule that Armenia's ancient dynasties would finally be put to hell and, at your command, would give rise to a powerful kingdom like no other. So great was Armenia's strenght that no army could overcome it. From Rome to Parthia, neighbouring empire trembled in fear. It is upon your example that future Armenian kings would look in both awe and envy.",
+		"startIntroPart2": "Mighty Tigranes Magnus, Armenis is faced once again with great foes. These are the greatest empires of the world, and Armenia stands at their cross-roads. Can you lead the defense of your realm? Can you unite your bickering nobles to ensure Armenia remains free and strong? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You are a disgrace to this world and I shall end you!",
 		"attacked": "So that's how you treat others? We shall teach you a lesson.",
@@ -206,8 +206,8 @@
 		"outerColor": [	84, 215, 247],
 		"innerColor": [	255, 255, 255],
 		"uniqueName": "Shackles of Gold",
-		"uniqueText": "Earns Gold for killing enemy Land units", 
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
+		"uniqueText": "Earns [Gold] for killing enemy land units", 
+		"uniques": ["Earn [75]% of killed [Land] unit's [Strength] as [Gold]"],
 		"cities": ["Mogadishu","Avalite","Botiala","Gondal","Toniki","Salweyn","Miandi","Sarapion","Hannassa","Bulhar",
 		"Essina","Famo","Mosylon","Opone","Nikon","Mundus"]
 	},
@@ -218,8 +218,8 @@
 		"startBias": ["Jungle","Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Oh mighty and righteous U Kix Chan, King of Palenque and son of the Lady White Quetzal, your people prostrate themselves in awe and reverence! A skilled and ingenious people, the Olmec emerged along the Coatzacoalcos river basin in what is today the southern Mexican Gulf Coast. Quick to exploit the natural wonders of their surroundings, they developed new technologies - boiling rubber from tree sap - and carved colossal monuments from the basalt boulders of the Tuxtlas Mountains. From this cradle , Mesoamerican civilization would flourish. As the Maya would rise in the Yucatan to the east and the Aztecs in the Valley of Mexico to the west, the true legacy of the Olmec would be the indelible mark left on these great empires to come.",
+		"startIntroPart2": "Ancient King, history has not been king to your land. Foreign crowns have crossed the sea to kill your children and ravage their civilizations. The people of Mesoamerica now pray to their ancestors for guidance. Will you return to restore the glory of your culture and legacy? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "War! The Feathered Serpent demands sacrificial blood!",
 		"attacked": "Is it bravery or stupidity?",
@@ -241,7 +241,7 @@
 		"outerColor": [	91, 176, 156],
 		"innerColor": [ 40, 94, 68],
 		"uniqueName": "Feathered Serpent",
-		"uniqueText": "May buy National Wonders with Faith.",
+		"uniqueText": "May buy National Wonders with [Faith].",
 		"uniques": ["May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost"],
 		"cities": ["La Venta","San Lorenzo","Tres Zapotes","Izapa","Tzapotl","Tonala","Texpa","Tlapocoya","Xoc","Coatztitlan","Izacoya"]
 	},
@@ -252,8 +252,8 @@
 		"startBias": ["Jungle","Iron"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "TBD",
-		"startIntroPart2": "TBD",
+		"startIntroPart1": "Welcome, King Olori, leader of the Nok culture, architect of the cradle of North African civilization! For millennia, your people endured a hunter-gather existance, isolated from other peoples. It was not until the turn of the first millennium BC that your people discovered iron from the north, enabling them to craft their dominion of what is northern Nigeria today: pottery, architecture and artist expression thrived. But it was not to last, as overpopulation, coupled with rapid climate shifts, spelled the end of your culture. Your people persisted, however, forming the formidable Benin, Nri, Yoruba and Hausa kingdoms and ethnic groups lasting into the modern day.",
+		"startIntroPart2": "Olori, your people feel their culture has been vandalised and forgotten, and seek a new chapter in west African history that will return to its artistic roots, forging a culture that will embrace new technology. Can you craft their legacy once again? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You must be destroyed!",
 		"attacked": "Oh, I see. I did not expect anything else from you.",
@@ -275,8 +275,8 @@
 		"outerColor": [	189, 182, 125],
 		"innerColor": [	82, 70, 55],
 		"uniqueName": "African Treasures",
-		"uniqueText": "All cities provide 1 copy of Terracotta luxury resource. +1 Science from every Iron. Workers may be expended to instantly create Mine improvement regardless of base terrain",
-		"uniques": ["Gain a free [Free Terracotta] [in all cities]","[+1 Science] from every [Iron]","[Worker] units gain the [Mine] promotion"],
+		"uniqueText": "All cities provide 1 copy of [Terracotta] luxury resource. +1 [Science] from every Iron.",
+		"uniques": ["Gain a free [Free Terracotta] [in all cities]","[+1 Science] from every [Iron]"],
 		"cities": ["Nok","Jos","Ife","Samun","Kagara","Janjala","Kwoi","Jere","Dokku","Bokkos","Riyom","Ogbabu","Pangajere","Taruga","Kamrun","Vom","Chakwama","Dogo-Dogo","Jagwa"]
 	},
 			{
@@ -309,14 +309,13 @@
 		"outerColor": [	31, 31, 31],
 		"innerColor": [	247, 198, 0],
 		"uniqueName": "Desert Paradise",
-		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","+[15]% Strength if within [1] tiles of a [Desert]"],
+		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","[+15]% Strength <within [1] tiles of a [Desert]>"],
 		"cities": ["Zafar","Sana'a","Ma'rib","Najran","Mocha","Haram","Haywan","Mukhwan","Yabrin","Shabwa","Wa'lan","Libna","Nashaq","Timna","Sirwah","Quarnawu","Kaminahu","Baraqish"]
 	},
 				{
 		"name": "Epirus",
 		"leaderName": "Pyrrhus",
 		"adjective": ["Epirote"],
-		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "TBD",
@@ -342,8 +341,8 @@
 		"innerColor": [	232, 170, 158],
 		"outerColor": [	94, 50, 0],
 		"uniqueName": "Pyrrhic Victory",
-		"uniqueText": "Can't train Settlers. All military units have + 40% more strength when attacking, but suffer -20% penalty when defending. +25% Production when constructing military units in capital. Workers may be expended to create Outpost improvement.",
-		"uniques": ["Cannot build [Settler] units","[Worker] units gain the [Outpost] promotion", "[Military] units gain the [Pyrrhic Victory] promotion","[+25]% Production when constructing [Military] units [in capital]"],
+		"uniqueText": "Can't train Settlers. All military units have + 25% more strength when attacking cities, but suffer -25% penalty when defending against cities. +25% [Production] when constructing military units in capital. Gains a free [Great General] upon researching Bronze Working and Steel",
+		"uniques": ["Cannot build [Settler] units", "[Military] units gain the [Pyrrhic Victory] promotion","[+25]% Production when constructing [Military] units [in capital]","Receive free [Great General] when you discover [Bronze Working]","Receive free [Great General] when you discover [Steel]"],
 		"cities": ["Ambracia","Phoenike","Passaron"]
 	},
 					{

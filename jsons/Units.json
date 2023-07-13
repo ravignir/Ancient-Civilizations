@@ -7,7 +7,7 @@
 		"movement": 3,
 		"strength": 8,
 		"rangedStrength": 8,
-		"range": 2,
+		"range": 1,
 		"cost": 45,
 		"requiredTech": "Sailing",
 		"obsoleteTech": "Compass",
@@ -28,8 +28,8 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"promotions": ["Shock I","Cover I"],
-		"uniques": ["No defensive terrain bonus","Consumes [1] [Horses]","[+25]% Strength <vs [Sword] units>","Rough terrain penalty","[-25]% Strength <vs cities>"],
+		"promotions": ["Shock I"],
+		"uniques": ["No defensive terrain bonus","Consumes [1] [Horses]","[+25]% Strength <vs [Sword] units>","Rough terrain penalty","[-33]% Strength <vs cities>"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -100,8 +100,8 @@
 		"strength": 6,
 		"cost": 40,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["[1] additional attacks per turn","May upgrade to [Composite Bowman] through ruins-like effects"],
-		"promotions": ["Charge","Ignore terrain cost"],
+		"uniques": ["[1] additional attacks per turn","May upgrade to [Composite Bowman] through ruins-like effects","May capture killed [Military] units"],
+		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
 		{
@@ -116,7 +116,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+15]% Strength bonus for [Sword] units within [1] tiles","Heals [25] damage if it kills a unit","[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"uniques": ["[+15]% Strength bonus for [Sword] units within [1] tiles","Heals [25] damage if it kills a unit","[-15]% Strength for enemy [Military] units in adjacent [All] tiles"],
 		"attackSound": "nonmetalhit"
 	},
 	{	
@@ -131,23 +131,23 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
-		"promotions": ["Mobility","Accuracy I"],
+		"promotions": ["Accuracy I"],
 		"attackSound": "arrow"
 	},
-		{
+	{
 		"name": "Tarantine Cavalry",
 		"unitType": "Archery",
 		"uniqueTo": "Epirus",
 		"replaces": "Chariot Archer",
 		"movement": 3,
-		"strength": 7,
+		"strength": 9,
 		"rangedStrength": 9,
 		"cost": 70,
 		"requiredTech": "Trapping",
 		"upgradesTo": "Crossbowman",
 		"obsoleteTech": "Machinery",
 		"promotions": ["Mobility"],
-		"uniques": ["Consumes [1] [Horses]","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>","May withdraw before melee ([80]%)"],
+		"uniques": ["Consumes [1] [Horses]","Can move after attacking","[-25]% Strength <vs cities> <when attacking>", "No defensive terrain bonus","May withdraw before melee ([50]%)"],
 		"attackSound": "arrow"
 	},
 		{	
@@ -164,5 +164,20 @@
 		"upgradesTo": "Composite Bowman",
 		"promotions": ["Steppe Hunter"],
 		"attackSound": "arrow"
+	},
+		{
+		"name": "Ptolemaic Elephant",
+		"unitType": "Mounted",
+		"uniqueTo": "Epirus",
+		"replaces": "Horseman",
+		"movement": 3,
+		"strength": 13,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"attackSound": "elephant"
 	},
 ]
