@@ -2,20 +2,20 @@
 	{
         "name": "Free Terracotta",
         "uniqueTo": "Nok",
-        "cost": -1,
+        "cost": 1,
 	"uniques": ["Provides [1] [Terracotta]","Will not be displayed in Civilopedia","Unsellable","Destroyed when the city is captured"],
 	},
 		{
         "name": "Myrrh",
         "uniqueTo": "Himyar",
-        "cost": -1,
+        "cost": 1,
 	 "cannotBeBuiltWith": "Frankincense",
 	"uniques": ["Consumes [1] [Incense]","Provides [1] [Myrrh]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>","Destroyed when the city is captured"],
 	},
 			{
         "name": "Frankincense",
         "uniqueTo": "Himyar",
-        "cost": -1,
+        "cost": 1,
 	 "cannotBeBuiltWith": "Myrrh",
 	"uniques": ["Consumes [1] [Incense]","Provides [1] [Frankincense]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>","Destroyed when the city is captured"],
 	},
