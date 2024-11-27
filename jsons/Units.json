@@ -147,7 +147,7 @@
 		"upgradesTo": "Crossbowman",
 		"obsoleteTech": "Machinery",
 		"promotions": ["Mobility"],
-		"uniques": ["Consumes [1] [Horses]","Can move after attacking","[-25]% Strength <vs cities> <when attacking>", "No defensive terrain bonus","May withdraw before melee ([50]%)"],
+		"uniques": ["Consumes [1] [Horses]","Can move after attacking","[-25]% Strength <vs cities> <when attacking>", "No defensive terrain bonus","Withdraws before melee combat (with [50]% chance)"],
 		"attackSound": "arrow"
 	},
 		{	
