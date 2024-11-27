@@ -342,7 +342,7 @@
 		"outerColor": [	94, 50, 0],
 		"uniqueName": "Pyrrhic Victory",
 		"uniqueText": "Can't train Settlers. All military units have + 25% more strength when attacking cities, but suffer -25% penalty when defending against cities. +25% [Production] when constructing military units in capital. Gains a free [Great General] upon researching Bronze Working and Steel",
-		"uniques": ["Cannot build [Settler] units", "[Military] units gain the [Pyrrhic Victory] promotion","[+25]% Production when constructing [Military] units [in capital]","Receive free [Great General] when you discover [Bronze Working]","Receive free [Great General] when you discover [Steel]"],
+		"uniques": ["Cannot build [Settler] units", "[Military] units gain the [Pyrrhic Victory] promotion","[+25]% Production when constructing [Military] units [in capital]","Free [Great General] appears (upon discovering [Bronze Working])","Free [Great General] appears (upon discovering [Steel])"],
 		"cities": ["Ambracia","Phoenike","Passaron"]
 	},
 					{
